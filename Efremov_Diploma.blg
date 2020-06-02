@@ -1,0 +1,84 @@
+This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: Efremov_Diploma.aux
+The style file: plain.bst
+Database file #1: mylib.bib
+Too many commas in name 1 of "Вельховер Е.С., Шульпина Н.Б., Алиева З.А., Ромашов Ф.Н." for entry Medic
+while executing---line 1049 of file plain.bst
+Warning--to sort, need author or key in Tech
+Warning--to sort, need author or key in Terr
+Warning--to sort, need author or key in Conf3
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
+while executing---line 1049 of file plain.bst
+Name 1 in "Min, T., and R. Park." has a comma at the end for entry Min
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
+while executing---line 1049 of file plain.bst
+Too many commas in name 1 of "Вельховер Е.С., Шульпина Н.Б., Алиева З.А., Ромашов Ф.Н." for entry Medic
+while executing---line 1090 of file plain.bst
+Warning--empty author in Conf3
+Warning--empty year in Conf3
+Warning--empty author in Terr
+Warning--empty year in Terr
+Warning--empty author in Tech
+Warning--empty year in Tech
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
+while executing---line 1090 of file plain.bst
+Name 1 in "Min, T., and R. Park." has a comma at the end for entry Min
+while executing---line 1090 of file plain.bst
+Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
+while executing---line 1090 of file plain.bst
+You've used 15 entries,
+            2118 wiz_defined-function locations,
+            578 strings with 6074 characters,
+and the built_in function-call counts, 3003 in all, are:
+= -- 288
+> -- 93
+< -- 0
++ -- 42
+- -- 26
+* -- 141
+:= -- 548
+add.period$ -- 42
+call.type$ -- 15
+change.case$ -- 58
+chr.to.int$ -- 0
+cite$ -- 24
+duplicate$ -- 150
+empty$ -- 259
+format.name$ -- 26
+if$ -- 605
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 15
+newline$ -- 75
+num.names$ -- 24
+pop$ -- 67
+preamble$ -- 1
+purify$ -- 43
+quote$ -- 0
+skip$ -- 102
+stack$ -- 0
+substring$ -- 76
+swap$ -- 15
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 60
+warning$ -- 9
+while$ -- 24
+width$ -- 17
+write$ -- 143
+(There were 14 error messages)

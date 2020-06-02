@@ -1,0 +1,23 @@
+\babel@toc {russian}{}
+\contentsline {section}{\numberline {1}Введение}{4}{section.1}%
+\contentsline {subsection}{\numberline {1.1}Цели и задачи работы}{7}{subsection.1.1}%
+\contentsline {section}{\numberline {2}Определения и обозначения}{8}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Основные определения и понятия}{8}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Постановка задачи}{8}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Обзор существующих методов}{9}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Методы выделения контуров}{9}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Производные 1-го и 2-го порядков}{10}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Оператор Робертса}{11}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Оператор Превитта}{12}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Оператор Собеля}{12}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Преобразование Хафа}{13}{subsubsection.3.1.5}%
+\contentsline {subsubsection}{\numberline {3.1.6}Интегро-дифференциальный оператор (IDO)}{14}{subsubsection.3.1.6}%
+\contentsline {subsubsection}{\numberline {3.1.7}Оператор Кэнни}{14}{subsubsection.3.1.7}%
+\contentsline {subsection}{\numberline {3.2}Модели аппроксимации века}{15}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Эллиптический контур века}{15}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Параболический контур века}{15}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Методы выделения века на изображении глаза}{16}{subsection.3.3}%
+\contentsline {section}{\numberline {4}Описание модели}{18}{section.4}%
+\contentsline {section}{\numberline {5}Реализация алгоритма}{19}{section.5}%
+\contentsline {section}{\numberline {6}Результаты работы алгоритма}{20}{section.6}%
+\contentsline {section}{\numberline {7}Заключение}{21}{section.7}%

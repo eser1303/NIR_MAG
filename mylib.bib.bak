@@ -1,0 +1,175 @@
+% Encoding: UTF-8
+
+@Article{Nguyen2020,
+  author  = {Thong Nguyen, Duy Nguyen, Pramod Rao},
+  journal = {arXiv},
+  title   = {Adaptive Name Entity Recognition under Highly Unbalanced Data},
+  year    = {2020},
+  doi     = {arXiv:2003.10296},
+}
+
+@Article{Zhi2020,
+  author  = {Shi Zhi, Liyuan Liu, Yu Zhang, Shiyin Wang, Qi Li, Chao Zhang, Jiawei Han},
+  journal = {arXiv},
+  title   = {Partially-Typed NER Datasets Integration: Connecting Practice to Theory},
+  year    = {2020},
+  doi     = {2005.00502v1},
+}
+
+@Article{DBLP:journals/corr/LampleBSKD16,
+  author        = {Guillaume Lample and Miguel Ballesteros and Sandeep Subramanian and Kazuya Kawakami and Chris Dyer},
+  journal       = {CoRR},
+  title         = {Neural Architectures for Named Entity Recognition},
+  year          = {2016},
+  volume        = {abs/1603.01360},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/journals/corr/LampleBSKD16.bib},
+  eprint        = {1603.01360},
+  timestamp     = {Mon, 13 Aug 2018 16:47:39 +0200},
+  url           = {http://arxiv.org/abs/1603.01360},
+}
+
+@Article{DBLP:journals/corr/abs-1103-0398,
+  author        = {Ronan Collobert and Jason Weston and L{\'{e}}on Bottou and Michael Karlen and Koray Kavukcuoglu and Pavel P. Kuksa},
+  journal       = {CoRR},
+  title         = {Natural Language Processing (almost) from Scratch},
+  year          = {2011},
+  volume        = {abs/1103.0398},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/journals/corr/abs-1103-0398.bib},
+  eprint        = {1103.0398},
+  timestamp     = {Mon, 13 Aug 2018 16:46:35 +0200},
+  url           = {http://arxiv.org/abs/1103.0398},
+}
+
+@Article{pmid32046638,
+  author  = {Hong, S. K. and Lee, J. G.},
+  journal = {BMC Bioinformatics},
+  title   = {{{D}{T}ran{N}{E}{R}: biomedical named entity recognition with deep learning-based label-label transition model}},
+  year    = {2020},
+  month   = {Feb},
+  number  = {1},
+  pages   = {53},
+  volume  = {21},
+}
+
+@Article{Lafferty01conditionalrandom,
+  author    = {John Lafferty},
+  title     = {Conditional random fields: Probabilistic models for segmenting and labeling sequence data},
+  year      = {2001},
+  pages     = {282--289},
+  publisher = {Morgan Kaufmann},
+}
+
+@Article{pmid15960839,
+  author  = {Finkel, J. and Dingare, S. and Manning, C. D. and Nissim, M. and Alex, B. and Grover, C.},
+  journal = {BMC Bioinformatics},
+  title   = {{{E}xploring the boundaries: gene and protein identification in biomedical text}},
+  year    = {2005},
+  pages   = {S5},
+  volume  = {6 Suppl 1},
+}
+
+@Article{pmid28200120,
+  author  = {Cejuela, J. M. and Bojchevski, A. and Uhlig, C. and Bekmukhametov, R. and Kumar Karn, S. and Mahmuti, S. and Baghudana, A. and Dubey, A. and Satagopam, V. P. and Rost, B.},
+  journal = {Bioinformatics},
+  title   = {{nala: text mining natural language mutation mentions}},
+  year    = {2017},
+  month   = {Jun},
+  number  = {12},
+  pages   = {1852--1858},
+  volume  = {33},
+}
+
+@Article{DBLP:journals/corr/abs-1801-09851,
+  author        = {Xuan Wang and Yu Zhang and Xiang Ren and Yuhao Zhang and Marinka Zitnik and Jingbo Shang and Curtis Langlotz and Jiawei Han},
+  journal       = {CoRR},
+  title         = {Cross-type Biomedical Named Entity Recognition with Deep Multi-Task Learning},
+  year          = {2018},
+  volume        = {abs/1801.09851},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/journals/corr/abs-1801-09851.bib},
+  eprint        = {1801.09851},
+  timestamp     = {Mon, 28 Jan 2019 09:39:07 +0100},
+  url           = {http://arxiv.org/abs/1801.09851},
+}
+
+@Article{DBLP:journals/corr/HuangXY15,
+  author        = {Zhiheng Huang and Wei Xu and Kai Yu},
+  journal       = {CoRR},
+  title         = {Bidirectional {LSTM-CRF} Models for Sequence Tagging},
+  year          = {2015},
+  volume        = {abs/1508.01991},
+  archiveprefix = {arXiv},
+  bibsource     = {dblp computer science bibliography, https://dblp.org},
+  biburl        = {https://dblp.org/rec/journals/corr/HuangXY15.bib},
+  eprint        = {1508.01991},
+  timestamp     = {Mon, 13 Aug 2018 16:46:46 +0200},
+  url           = {http://arxiv.org/abs/1508.01991},
+}
+
+@InProceedings{wang-etal-2019-overview,
+  author    = {Wang, Yuxing and Zhou, Kaiyin and Gachloo, Mina and Xia, Jingbo},
+  booktitle = {Proceedings of The 5th Workshop on BioNLP Open Shared Tasks},
+  title     = {An Overview of the Active Gene Annotation Corpus and the {B}io{NLP} {OST} 2019 {AGAC} Track Tasks},
+  year      = {2019},
+  address   = {Hong Kong, China},
+  month     = nov,
+  pages     = {62--71},
+  publisher = {Association for Computational Linguistics},
+  abstract  = {The active gene annotation corpus (AGAC) was developed to support knowledge discovery for drug repurposing. Based on the corpus, the AGAC track of the BioNLP Open Shared Tasks 2019 was organized, to facilitate cross-disciplinary collaboration across BioNLP and Pharmacoinformatics communities, for drug repurposing. The AGAC track consists of three subtasks: 1) named entity recognition, 2) thematic relation extraction, and 3) loss of function (LOF) / gain of function (GOF) topic classification. The AGAC track was participated by five teams, of which the performance are compared and analyzed. The the results revealed a substantial room for improvement in the design of the task, which we analyzed in terms of {``}imbalanced data{''}, {``}selective annotation{''} and {``}latent topic annotation{''}.},
+  doi       = {10.18653/v1/D19-5710},
+  url       = {https://www.aclweb.org/anthology/D19-5710},
+}
+
+@Article{pmid27256315,
+  author  = {Thomas, P. and Rockt?schel, T. and Hakenberg, J. and Lichtblau, Y. and Leser, U.},
+  journal = {Bioinformatics},
+  title   = {{{S}{E}{T}{H} detects and normalizes genetic variants in text}},
+  year    = {2016},
+  month   = {09},
+  number  = {18},
+  pages   = {2883--2885},
+  volume  = {32},
+}
+
+@Article{pmid15960837,
+  author  = {Tanabe, L. and Xie, N. and Thom, L. H. and Matten, W. and Wilbur, W. J.},
+  journal = {BMC Bioinformatics},
+  title   = {{{G}{E}{N}{E}{T}{A}{G}: a tagged corpus for gene/protein named entity recognition}},
+  year    = {2005},
+  pages   = {S3},
+  volume  = {6 Suppl 1},
+}
+
+@Article{pmid23564842,
+  author  = {Wei, C. H. and Harris, B. R. and Kao, H. Y. and Lu, Z.},
+  journal = {Bioinformatics},
+  title   = {{tm{V}ar: a text mining approach for extracting sequence variants in biomedical literature}},
+  year    = {2013},
+  month   = {Jun},
+  number  = {11},
+  pages   = {1433--1439},
+  volume  = {29},
+}
+
+@Book{kingston2002abc,
+  author    = {Helen M Kingston},
+  publisher = {BMJ Books},
+  title     = {ABC of Clinical Genetics - 3rd Edition (ABC Series)},
+  year      = {2002},
+  address   = {London},
+  isbn      = {978-0727916273},
+}
+
+@InProceedings{Sutton12anintroduction,
+  author    = {Charles Sutton and Andrew Mccallum},
+  booktitle = {Foundations and Trends in Machine Learning},
+  title     = {An Introduction to Conditional Random Fields},
+  year      = {2012},
+}
+
+@Comment{jabref-meta: databaseType:bibtex;}

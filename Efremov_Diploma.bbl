@@ -1,0 +1,85 @@
+\begin{thebibliography}{10}
+
+\bibitem{Medic}
+Алиева З.А. Ромашов~Ф.Н. Вельховер~Е.С.,
+  Шульпина~Н.Б.
+\newblock Иридодиагностика.
+\newblock {\em М.: Медицина,}, 1988.
+
+\bibitem{Smirn}
+Матвеев~И.А. Смирнов~Д.А.
+\newblock Определение границ век на
+  изображении глаза методом активных
+  контуров.
+\newblock {\em Труды ИСА РАН, Динамика неоднород-
+  ных систем.}, 2006.
+
+\bibitem{Conf3}
+Future challenges based on the multiple biometric grand challenge.
+\newblock {\em NIST Information Access Division: Multiple Biometric Grand
+  Challenge. February 2010. // http://face.nist.gov.}
+
+\bibitem{Terr}
+Multiple biometric evaluation (mbe2009).
+\newblock {\em http://www.nist.gov/ itl/iad/ig/mbe.cfm}.
+
+\bibitem{Tech}
+Multiple biometric grand challenge (mbgc - 2007).
+\newblock {\em http://www.nist.gov/ itl/iad/ig/mbgc.cfm}.
+
+\bibitem{Adam_2}
+Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
+\newblock Eyelid localization for iris identification.
+\newblock {\em Radioengineering}, 2008.
+
+\bibitem{Adam_1}
+Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
+\newblock Reliable eyelid localization for iris identification.
+\newblock {\em Advanced Concepts for Intelligent Vision Systems Conference
+  Proceedings}, 2008.
+
+\bibitem{Daugman}
+Daugman J.
+\newblock How iris recognition works.
+\newblock {\em IEEE Trans. Circ. Syst. Vid.}, 2004.
+
+\bibitem{KP}
+Park~K. Kang~B.
+\newblock A robust eyelash detection based on iris focus assessment.
+\newblock {\em Pattern Recogn. Lett.,}, 2007.
+
+\bibitem{Masek}
+Masek L.
+\newblock Recognition of human iris patterns for biometric identification.
+\newblock {\em Measurement}, 2003.
+
+\bibitem{Min}
+T.~Min and R.~Park.
+\newblock Comparison of eyelid and eyelash detection algorithms for perfor-
+  mance improvement of iris recognition.
+\newblock {\em Conference (International) on Image Processings Proceedings .},
+  2008.
+
+\bibitem{Wildes}
+Wildes R.
+\newblock Iris recognition: an emerging biometric technology.
+\newblock {\em Proc. IEEE}, 1997.
+
+\bibitem{Matv}
+Matveev~I. Solomatin~I.
+\newblock Detecting visible areas of iris by qualifier of local textural
+  features.
+\newblock {\em J. Machine Learning Data Anal}, 2016.
+
+\bibitem{KKX}
+Hegui~Z. Xiangde~Z, Qi~W.
+\newblock Noise detection of iris image based on texture analysis.
+\newblock {\em Chinese Control and Decision Conference Proceedings}, 2009.
+
+\bibitem{Yang}
+Dong Y. Fei~L. Yang~L., Wu~T.
+\newblock Eyelid localization using asymmetric canny operator.
+\newblock {\em Conference (International) on Computer Design and Applications
+  Proceedings}, 2010.
+
+\end{thebibliography}
