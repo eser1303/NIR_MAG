@@ -5,9 +5,9 @@ The style file: plain.bst
 Database file #1: mylib.bib
 Too many commas in name 1 of "Вельховер Е.С., Шульпина Н.Б., Алиева З.А., Ромашов Ф.Н." for entry Medic
 while executing---line 1049 of file plain.bst
-Warning--to sort, need author or key in Tech
-Warning--to sort, need author or key in Terr
 Warning--to sort, need author or key in Conf3
+Warning--to sort, need author or key in Terr
+Warning--to sort, need author or key in Tech
 Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
 while executing---line 1049 of file plain.bst
 Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
@@ -40,45 +40,45 @@ Name 1 in "Min, T., and R. Park." has a comma at the end for entry Min
 while executing---line 1090 of file plain.bst
 Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
 while executing---line 1090 of file plain.bst
-You've used 15 entries,
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            578 strings with 6074 characters,
-and the built_in function-call counts, 3003 in all, are:
-= -- 288
-> -- 93
+            598 strings with 6526 characters,
+and the built_in function-call counts, 3823 in all, are:
+= -- 368
+> -- 121
 < -- 0
-+ -- 42
-- -- 26
-* -- 141
-:= -- 548
-add.period$ -- 42
-call.type$ -- 15
-change.case$ -- 58
++ -- 56
+- -- 34
+* -- 173
+:= -- 704
+add.period$ -- 54
+call.type$ -- 19
+change.case$ -- 74
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 150
-empty$ -- 259
-format.name$ -- 26
-if$ -- 605
+cite$ -- 28
+duplicate$ -- 190
+empty$ -- 327
+format.name$ -- 34
+if$ -- 769
 int.to.chr$ -- 0
-int.to.str$ -- 15
-missing$ -- 15
-newline$ -- 75
-num.names$ -- 24
-pop$ -- 67
+int.to.str$ -- 19
+missing$ -- 19
+newline$ -- 95
+num.names$ -- 32
+pop$ -- 83
 preamble$ -- 1
-purify$ -- 43
+purify$ -- 55
 quote$ -- 0
-skip$ -- 102
+skip$ -- 130
 stack$ -- 0
-substring$ -- 76
-swap$ -- 15
+substring$ -- 98
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 60
+type$ -- 76
 warning$ -- 9
-while$ -- 24
-width$ -- 17
-write$ -- 143
+while$ -- 32
+width$ -- 21
+write$ -- 183
 (There were 14 error messages)
