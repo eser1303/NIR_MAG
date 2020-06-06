@@ -40,45 +40,45 @@ Name 1 in "Min, T., and R. Park." has a comma at the end for entry Min
 while executing---line 1090 of file plain.bst
 Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
 while executing---line 1090 of file plain.bst
-You've used 19 entries,
+You've used 21 entries,
             2118 wiz_defined-function locations,
-            598 strings with 6526 characters,
-and the built_in function-call counts, 3823 in all, are:
-= -- 368
-> -- 121
+            610 strings with 6824 characters,
+and the built_in function-call counts, 4233 in all, are:
+= -- 408
+> -- 135
 < -- 0
-+ -- 56
-- -- 34
-* -- 173
-:= -- 704
-add.period$ -- 54
-call.type$ -- 19
-change.case$ -- 74
++ -- 63
+- -- 38
+* -- 189
+:= -- 782
+add.period$ -- 60
+call.type$ -- 21
+change.case$ -- 82
 chr.to.int$ -- 0
-cite$ -- 28
-duplicate$ -- 190
-empty$ -- 327
-format.name$ -- 34
-if$ -- 769
+cite$ -- 30
+duplicate$ -- 210
+empty$ -- 361
+format.name$ -- 38
+if$ -- 851
 int.to.chr$ -- 0
-int.to.str$ -- 19
-missing$ -- 19
-newline$ -- 95
-num.names$ -- 32
-pop$ -- 83
+int.to.str$ -- 21
+missing$ -- 21
+newline$ -- 105
+num.names$ -- 36
+pop$ -- 91
 preamble$ -- 1
-purify$ -- 55
+purify$ -- 61
 quote$ -- 0
-skip$ -- 130
+skip$ -- 144
 stack$ -- 0
-substring$ -- 98
-swap$ -- 19
+substring$ -- 109
+swap$ -- 21
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 76
+type$ -- 84
 warning$ -- 9
-while$ -- 32
-width$ -- 21
-write$ -- 183
+while$ -- 36
+width$ -- 23
+write$ -- 203
 (There were 14 error messages)

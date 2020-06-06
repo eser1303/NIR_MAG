@@ -27,6 +27,13 @@ Multiple biometric evaluation (mbe2009).
 Multiple biometric grand challenge (mbgc - 2007).
 \newblock {\em http://www.nist.gov/ itl/iad/ig/mbgc.cfm}.
 
+\bibitem{Inter}
+Дьяконов~В. П.
+\newblock Справочник по алгоритмам и
+  программам на языке бейсик для
+  персональных ЭВМ.
+\newblock {\em М.: Наука}, 1987.
+
 \bibitem{Adam_2}
 Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
 \newblock Eyelid localization for iris identification.
@@ -37,6 +44,11 @@ Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
 \newblock Reliable eyelid localization for iris identification.
 \newblock {\em Advanced Concepts for Intelligent Vision Systems Conference
   Proceedings}, 2008.
+
+\bibitem{Radon}
+Stanley~R. Deans.
+\newblock The radon transform and some of its applications.
+\newblock {\em New York: John Wiley and Sons}, 1983.
 
 \bibitem{Canny}
 Canny J.
