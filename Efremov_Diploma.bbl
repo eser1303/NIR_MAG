@@ -45,31 +45,38 @@ Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
 \newblock {\em Advanced Concepts for Intelligent Vision Systems Conference
   Proceedings}, 2008.
 
+\bibitem{Hough_Parab}
+D.~H. Ballard.
+\newblock Generalizing the hough transform to detect arbitrary shapes.
+\newblock {\em Pattern Recognition}, 1981.
+
+\bibitem{Canny}
+J~Canny.
+\newblock A computational approach to edge detection.
+\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 8(6):679–698, June
+  1986.
+
+\bibitem{Daugman4}
+John Daugman.
+\newblock The importance of being random: statistical principles of iris
+  recognition.
+\newblock {\em Pattern Recognition}, 36(2):279--291, feb 2003.
+
+\bibitem{Daugman}
+John Daugman.
+\newblock How iris recognition works.
+\newblock In {\em Handbook of Image and Video Processing}, pages 1251--1262.
+  Elsevier, 2005.
+
 \bibitem{Radon}
 Stanley~R. Deans.
 \newblock The radon transform and some of its applications.
 \newblock {\em New York: John Wiley and Sons}, 1983.
 
-\bibitem{Canny}
-Canny J.
-\newblock A computational approach to edge detection.
-\newblock {\em IEEE TPAMI}, 1986.
-
 \bibitem{Daugman2}
 Daugman J.
 \newblock Biometric personal identification system based on iris analysis.
 \newblock {\em (U.S. Patent), 29160}, 1994.
-
-\bibitem{Daugman4}
-Daugman J.
-\newblock The importance of being random : statistical principles of iris
-  recognition.
-\newblock {\em Pattern Recognition}, 2003.
-
-\bibitem{Daugman}
-Daugman J.
-\newblock How iris recognition works.
-\newblock {\em IEEE Trans. Circ. Syst. Vid.}, 2004.
 
 \bibitem{Daugman3}
 Daugman J.
@@ -79,9 +86,9 @@ Daugman J.
   2013.
 
 \bibitem{KP}
-Park~K. Kang~B.
+Byung~Jun Kang and Kang~Ryoung Park.
 \newblock A robust eyelash detection based on iris focus assessment.
-\newblock {\em Pattern Recogn. Lett.,}, 2007.
+\newblock {\em Pattern Recognition Letters}, 28(13):1630--1639, oct 2007.
 
 \bibitem{Masek}
 Masek L.
@@ -89,16 +96,11 @@ Masek L.
 \newblock {\em Measurement}, 2003.
 
 \bibitem{Min}
-T.~Min and R.~Park.
-\newblock Comparison of eyelid and eyelash detection algorithms for perfor-
-  mance improvement of iris recognition.
-\newblock {\em Conference (International) on Image Processings Proceedings .},
-  2008.
-
-\bibitem{Wildes}
-Wildes R.
-\newblock Iris recognition: an emerging biometric technology.
-\newblock {\em Proc. IEEE}, 1997.
+Tae-Hong Min and Rae-Hong Park.
+\newblock Comparison of eyelid and eyelash detection algorithms for performance
+  improvement of iris recognition.
+\newblock In {\em 2008 15th {IEEE} International Conference on Image
+  Processing}. {IEEE}, 2008.
 
 \bibitem{Matv}
 Matveev~I. Solomatin~I.
@@ -106,15 +108,21 @@ Matveev~I. Solomatin~I.
   features.
 \newblock {\em J. Machine Learning Data Anal}, 2016.
 
-\bibitem{KKX}
-Hegui~Z. Xiangde~Z, Qi~W.
-\newblock Noise detection of iris image based on texture analysis.
-\newblock {\em Chinese Control and Decision Conference Proceedings}, 2009.
+\bibitem{Wildes}
+R.P. Wildes.
+\newblock Iris recognition: an emerging biometric technology.
+\newblock {\em Proceedings of the {IEEE}}, 85(9):1348--1363, 1997.
 
 \bibitem{Yang}
 Dong Y. Fei~L. Yang~L., Wu~T.
 \newblock Eyelid localization using asymmetric canny operator.
 \newblock {\em Conference (International) on Computer Design and Applications
   Proceedings}, 2010.
+
+\bibitem{KKX}
+Xiangde Zhang, Qi~Wang, Hegui Zhu, Cuili Yao, Longcheng Gao, and Xianyan Liu.
+\newblock Noise detection of iris image based on texture analysis.
+\newblock In {\em 2009 Chinese Control and Decision Conference}. {IEEE}, jun
+  2009.
 
 \end{thebibliography}
