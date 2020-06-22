@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.17)  13 JUN 2020 17:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7400 64-bit) (preloaded format=pdflatex 2020.5.17)  22 JUN 2020 14:53
 entering extended mode
 **./Efremov_Diploma.tex
 (Efremov_Diploma.tex
@@ -801,21 +801,11 @@ Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
 )
 \Hy@SectionHShift=\skip58
 )
-("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cite\cite.sty"
-LaTeX Info: Redefining \cite on input line 302.
-LaTeX Info: Redefining \nocite on input line 332.
-Package: cite 2015/02/27  v 5.5
-)
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/natbib\natbib.sty"
 Package: natbib 2010/09/13 8.31b (PWD, AO)
-
-Package natbib Warning: The `cite' package should not be used
-(natbib)                with natbib. Use option `sort' instead.
-
 \bibhang=\skip59
 \bibsep=\skip60
 LaTeX Info: Redefining \cite on input line 694.
-LaTeX Info: Redefining \citenum on input line 708.
 \c@NAT@ctr=\count300
 )
 \c@definition=\count301
@@ -834,33 +824,29 @@ LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 2
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmr.fd
 "
 File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
-)<<t2a.cmap>>
-
-LaTeX Warning: Label `norm' multiply defined.
-
-)
+)<<t2a.cmap>>)
 \openout1 = `Efremov_Diploma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 17.
-LaTeX Font Info:    ... okay on input line 17.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/context/base/mkii\supp-p
 df.mkii"
@@ -880,38 +866,46 @@ df.mkii"
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/epstopdf-pkg\epsto
 pdf-base.sty"
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/grfext\grfext.sty"
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+)
 Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
 )
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
 
 
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsa.fd"
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 17.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
 
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/amsfonts\umsb.fd"
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.47998pt on input line 17.
+Package xypdf Info: Line width: 0.47998pt on input line 18.
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
 * driver: pdftex
-* paper: <default>
+* paper: a4paper
 * layout: <same size as paper>
 * layoutoffset:(h,v)=(0.0pt,0.0pt)
 * modes: 
-* h-part:(L,W,R)=(85.35826pt, 486.25761pt, 42.67912pt)
-* v-part:(T,H,B)=(56.9055pt, 681.15898pt, 56.9055pt)
-* \paperwidth=614.295pt
-* \paperheight=794.96999pt
-* \textwidth=486.25761pt
-* \textheight=681.15898pt
+* h-part:(L,W,R)=(85.35826pt, 469.47049pt, 42.67912pt)
+* v-part:(T,H,B)=(56.9055pt, 731.23584pt, 56.9055pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=469.47049pt
+* \textheight=731.23584pt
 * \oddsidemargin=13.08827pt
 * \evensidemargin=13.08827pt
 * \topmargin=-52.36449pt
@@ -919,7 +913,7 @@ Package xypdf Info: Line width: 0.47998pt on input line 17.
 * \headsep=25.0pt
 * \topskip=12.0pt
 * \footskip=30.0pt
-* \marginparwidth=44.0pt
+* \marginparwidth=35.0pt
 * \marginparsep=10.0pt
 * \columnsep=10.0pt
 * \skip\footins=10.8pt plus 4.0pt minus 2.0pt
@@ -933,7 +927,7 @@ Package xypdf Info: Line width: 0.47998pt on input line 17.
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
 \AtBeginShipoutBox=\box60
-Package hyperref Info: Link coloring OFF on input line 17.
+Package hyperref Info: Link coloring OFF on input line 18.
 
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\nameref.s
 ty"
@@ -949,9 +943,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count311
 )
-LaTeX Info: Redefining \ref on input line 17.
-LaTeX Info: Redefining \pageref on input line 17.
-LaTeX Info: Redefining \nameref on input line 17.
+LaTeX Info: Redefining \ref on input line 18.
+LaTeX Info: Redefining \pageref on input line 18.
+LaTeX Info: Redefining \nameref on input line 18.
  (Efremov_Diploma.out) (Efremov_Diploma.out)
 \@outlinefile=\write5
 \openout5 = `Efremov_Diploma.out'.
@@ -960,7 +954,7 @@ LaTeX Info: Redefining \nameref on input line 17.
 
 {C:/Users/79855/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-67.
+68.
 
 ("C:\Users\79855\AppData\Local\Programs\MiKTeX 2.9\tex/latex/cyrillic\t2acmss.f
 d"
@@ -969,205 +963,222 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 \tf@toc=\write6
 \openout6 = `Efremov_Diploma.toc'.
 
- [3] [4]
-<glaz.jpg, id=156, 525.76425pt x 320.397pt>
+ [3]
+Underfull \vbox (badness 7685) has occurred while \output is active []
+
+ [4]
+<glaz.jpg, id=174, 525.76425pt x 320.397pt>
 File: glaz.jpg Graphic file (type jpg)
 <use glaz.jpg>
-Package pdftex.def Info: glaz.jpg  used on input line 84.
-(pdftex.def)             Requested size: 291.75752pt x 177.79799pt.
- [5 <./glaz.jpg>] [6]
-<glaz3.jpg, id=178, 383.63326pt x 168.02776pt>
+Package pdftex.def Info: glaz.jpg  used on input line 85.
+(pdftex.def)             Requested size: 281.68515pt x 171.65758pt.
+
+[5 <./glaz.jpg>] [6]
+<glaz3.jpg, id=194, 383.63326pt x 168.02776pt>
 File: glaz3.jpg Graphic file (type jpg)
 <use glaz3.jpg>
-Package pdftex.def Info: glaz3.jpg  used on input line 138.
-(pdftex.def)             Requested size: 389.00757pt x 170.38356pt.
-
-Underfull \vbox (badness 1062) has occurred while \output is active []
-
+Package pdftex.def Info: glaz3.jpg  used on input line 139.
+(pdftex.def)             Requested size: 375.57782pt x 164.50198pt.
  [7 <./glaz3.jpg>]
-<glaz8.jpg, id=200, 165.0165pt x 150.5625pt>
+<glaz8.jpg, id=217, 165.0165pt x 150.5625pt>
 File: glaz8.jpg Graphic file (type jpg)
 <use glaz8.jpg>
-Package pdftex.def Info: glaz8.jpg  used on input line 178.
-(pdftex.def)             Requested size: 243.1288pt x 221.83192pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[8] [9 <./glaz8.jpg>]
-<glaz4.jpg, id=225, 525.162pt x 205.36725pt>
+Package pdftex.def Info: glaz8.jpg  used on input line 179.
+(pdftex.def)             Requested size: 154.92612pt x 141.35416pt.
+ [8 <./glaz8.jpg>]
+<glaz2.jpg, id=237, 283.0575pt x 133.6995pt>
+File: glaz2.jpg Graphic file (type jpg)
+<use glaz2.jpg>
+Package pdftex.def Info: glaz2.jpg  used on input line 195.
+(pdftex.def)             Requested size: 281.68515pt x 133.06264pt.
+ [9 <./glaz2.jpg>]
+<glaz4.jpg, id=246, 525.162pt x 205.36725pt>
 File: glaz4.jpg Graphic file (type jpg)
 <use glaz4.jpg>
-Package pdftex.def Info: glaz4.jpg  used on input line 215.
-(pdftex.def)             Requested size: 389.00757pt x 152.12292pt.
- [10 <./glaz4.jpg>]
-<glaz5.jpg, id=237, 324.0105pt x 246.32025pt>
+Package pdftex.def Info: glaz4.jpg  used on input line 235.
+(pdftex.def)             Requested size: 375.57782pt x 146.87093pt.
+<glaz5.jpg, id=248, 324.0105pt x 246.32025pt>
 File: glaz5.jpg Graphic file (type jpg)
 <use glaz5.jpg>
-Package pdftex.def Info: glaz5.jpg  used on input line 235.
-(pdftex.def)             Requested size: 291.75752pt x 221.80644pt.
- [11 <./glaz5.jpg>]
-<prost_filt.jpg, id=244, 510.90875pt x 635.37375pt>
+Package pdftex.def Info: glaz5.jpg  used on input line 255.
+(pdftex.def)             Requested size: 234.73524pt x 178.45544pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[10 <./glaz4.jpg>]
+<prost_filt.jpg, id=261, 510.90875pt x 635.37375pt>
 File: prost_filt.jpg Graphic file (type jpg)
 <use prost_filt.jpg>
-Package pdftex.def Info: prost_filt.jpg  used on input line 252.
-(pdftex.def)             Requested size: 340.37885pt x 423.29384pt.
- [12 <./prost_filt.jpg>]
-<grad.jpg, id=252, 542.025pt x 156.585pt>
+Package pdftex.def Info: prost_filt.jpg  used on input line 272.
+(pdftex.def)             Requested size: 234.73524pt x 291.91675pt.
+ [11 <./glaz5.jpg> <./prost_filt.jpg>]
+<grad.jpg, id=269, 542.025pt x 156.585pt>
 File: grad.jpg Graphic file (type jpg)
 <use grad.jpg>
-Package pdftex.def Info: grad.jpg  used on input line 290.
-(pdftex.def)             Requested size: 340.37885pt x 98.33368pt.
- [13 <./grad.jpg>]
-<grad_mask_3.jpg, id=267, 135.50626pt x 89.33376pt>
+Package pdftex.def Info: grad.jpg  used on input line 310.
+(pdftex.def)             Requested size: 328.6279pt x 94.94089pt.
+ [12 <./grad.jpg>]
+<grad_mask_3.jpg, id=283, 135.50626pt x 89.33376pt>
 File: grad_mask_3.jpg Graphic file (type jpg)
 <use grad_mask_3.jpg>
-Package pdftex.def Info: grad_mask_3.jpg  used on input line 335.
-(pdftex.def)             Requested size: 97.25003pt x 64.11577pt.
- [14 <./grad_mask_3.jpg>]
-<grad_mask_rob.jpg, id=279, 214.8025pt x 76.285pt>
+Package pdftex.def Info: grad_mask_3.jpg  used on input line 355.
+(pdftex.def)             Requested size: 93.89265pt x 61.90207pt.
+<grad_mask_rob.jpg, id=285, 214.8025pt x 76.285pt>
 File: grad_mask_rob.jpg Graphic file (type jpg)
 <use grad_mask_rob.jpg>
-Package pdftex.def Info: grad_mask_rob.jpg  used on input line 355.
-(pdftex.def)             Requested size: 121.56439pt x 43.17326pt.
-<grad_mask_prev.jpg, id=282, 384.43625pt x 107.40125pt>
+Package pdftex.def Info: grad_mask_rob.jpg  used on input line 375.
+(pdftex.def)             Requested size: 117.36761pt x 41.68216pt.
+
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[13 <./grad_mask_3.jpg>]
+<grad_mask_prev.jpg, id=301, 384.43625pt x 107.40125pt>
 File: grad_mask_prev.jpg Graphic file (type jpg)
 <use grad_mask_prev.jpg>
-Package pdftex.def Info: grad_mask_prev.jpg  used on input line 379.
-(pdftex.def)             Requested size: 194.50008pt x 54.33961pt.
- [15 <./grad_mask_rob.jpg> <./grad_mask_prev.jpg>]
-<grad_mask_sob.jpg, id=299, 384.43625pt x 108.405pt>
+Package pdftex.def Info: grad_mask_prev.jpg  used on input line 399.
+(pdftex.def)             Requested size: 187.78532pt x 52.46318pt.
+<grad_mask_sob.jpg, id=304, 384.43625pt x 108.405pt>
 File: grad_mask_sob.jpg Graphic file (type jpg)
 <use grad_mask_sob.jpg>
-Package pdftex.def Info: grad_mask_sob.jpg  used on input line 403.
-(pdftex.def)             Requested size: 194.50008pt x 54.84746pt.
-<param_haf.jpg, id=301, 663.07726pt x 278.84175pt>
+Package pdftex.def Info: grad_mask_sob.jpg  used on input line 421.
+(pdftex.def)             Requested size: 187.78532pt x 52.95349pt.
+ [14 <./grad_mask_rob.jpg> <./grad_mask_prev.jpg> <./grad_mask_sob.jpg>]
+<param_haf.jpg, id=320, 663.07726pt x 278.84175pt>
 File: param_haf.jpg Graphic file (type jpg)
 <use param_haf.jpg>
-Package pdftex.def Info: param_haf.jpg  used on input line 423.
-(pdftex.def)             Requested size: 291.75752pt x 122.69073pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[16 <./grad_mask_sob.jpg>]
-<norm.jpg, id=315, 846.16125pt x 312.56775pt>
+Package pdftex.def Info: param_haf.jpg  used on input line 441.
+(pdftex.def)             Requested size: 281.68515pt x 118.45723pt.
+ [15 <./param_haf.jpg>]
+<norm.jpg, id=332, 846.16125pt x 312.56775pt>
 File: norm.jpg Graphic file (type jpg)
 <use norm.jpg>
-Package pdftex.def Info: norm.jpg  used on input line 442.
-(pdftex.def)             Requested size: 389.00757pt x 143.69705pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [17 <./param_haf.jpg> <./norm.jpg>]
-<hough_parab.jpg, id=323, 348.70274pt x 233.673pt>
+Package pdftex.def Info: norm.jpg  used on input line 460.
+(pdftex.def)             Requested size: 375.57782pt x 138.73688pt.
+ [16 <./norm.jpg>]
+<hough_parab.jpg, id=341, 348.70274pt x 233.673pt>
 File: hough_parab.jpg Graphic file (type jpg)
 <use hough_parab.jpg>
-Package pdftex.def Info: hough_parab.jpg  used on input line 474.
-(pdftex.def)             Requested size: 291.75752pt x 195.51738pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [18 <./hough_parab.jpg>]
-<Radon_transform.jpg, id=336, 72.39046pt x 64.19984pt>
+Package pdftex.def Info: hough_parab.jpg  used on input line 498.
+(pdftex.def)             Requested size: 281.68515pt x 188.76778pt.
+ [17 <./hough_parab.jpg>]
+<Radon_transform.jpg, id=359, 72.39046pt x 64.19984pt>
 File: Radon_transform.jpg Graphic file (type jpg)
 <use Radon_transform.jpg>
-Package pdftex.def Info: Radon_transform.jpg  used on input line 511.
-(pdftex.def)             Requested size: 243.1288pt x 215.6649pt.
-
-
-LaTeX Warning: `h' float specifier changed to `ht'.
-
-[19] [20 <./Radon_transform.jpg>] [21]
-<map.jpg, id=381, 644.4075pt x 215.80624pt>
+Package pdftex.def Info: Radon_transform.jpg  used on input line 535.
+(pdftex.def)             Requested size: 234.73524pt x 208.21988pt.
+ [18 <./Radon_transform.jpg>] [19]
+<map.jpg, id=391, 644.4075pt x 215.80624pt>
 File: map.jpg Graphic file (type jpg)
 <use map.jpg>
-Package pdftex.def Info: map.jpg  used on input line 567.
-(pdftex.def)             Requested size: 389.00757pt x 130.27834pt.
-<glaz6.jpg, id=384, 849.1725pt x 289.08pt>
+Package pdftex.def Info: map.jpg  used on input line 591.
+(pdftex.def)             Requested size: 375.57782pt x 125.78348pt.
+<glaz6.jpg, id=394, 849.1725pt x 289.08pt>
 File: glaz6.jpg Graphic file (type jpg)
 <use glaz6.jpg>
-Package pdftex.def Info: glaz6.jpg  used on input line 588.
-(pdftex.def)             Requested size: 389.00757pt x 132.42703pt.
+Package pdftex.def Info: glaz6.jpg  used on input line 612.
+(pdftex.def)             Requested size: 375.57782pt x 127.85724pt.
 
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-<glaz7.jpg, id=386, 849.1725pt x 300.52275pt>
+<glaz7.jpg, id=396, 849.1725pt x 300.52275pt>
 File: glaz7.jpg Graphic file (type jpg)
 <use glaz7.jpg>
-Package pdftex.def Info: glaz7.jpg  used on input line 602.
-(pdftex.def)             Requested size: 389.00757pt x 137.66893pt.
+Package pdftex.def Info: glaz7.jpg  used on input line 626.
+(pdftex.def)             Requested size: 375.57782pt x 132.91824pt.
 
 LaTeX Warning: `h' float specifier changed to `ht'.
 
-[22 <./map.jpg>] [23 <./glaz6.jpg> <./glaz7.jpg>]
-<I_glad.jpg, id=405, 849.1725pt x 300.52275pt>
+
+Underfull \vbox (badness 1629) has occurred while \output is active []
+
+ [20 <./map.jpg>]
+Underfull \vbox (badness 2846) has occurred while \output is active []
+
+ [21 <./glaz6.jpg> <./glaz7.jpg>]
+Underfull \hbox (badness 1231) in paragraph at lines 665--666
+[]\T2A/cmr/m/n/12 После на-ло-же-ния ин-тер-по-ля-ци-он-но-го филь-тра изоб-ра-
+же-ние при-об-ре-та-ет вид
+ []
+
+<I_glad.jpg, id=415, 849.1725pt x 300.52275pt>
 File: I_glad.jpg Graphic file (type jpg)
 <use I_glad.jpg>
-Package pdftex.def Info: I_glad.jpg  used on input line 647.
-(pdftex.def)             Requested size: 389.00757pt x 137.66893pt.
-<diff.jpg, id=407, 849.1725pt x 300.52275pt>
+Package pdftex.def Info: I_glad.jpg  used on input line 671.
+(pdftex.def)             Requested size: 375.57782pt x 132.91824pt.
+<diff.jpg, id=417, 849.1725pt x 300.52275pt>
 File: diff.jpg Graphic file (type jpg)
 <use diff.jpg>
-Package pdftex.def Info: diff.jpg  used on input line 660.
-(pdftex.def)             Requested size: 389.00757pt x 137.66893pt.
-
-Underfull \vbox (badness 10000) has occurred while \output is active []
-
- [24 <./I_glad.jpg> <./diff.jpg>]
-<parab.jpg, id=416, 849.1725pt x 449.2785pt>
+Package pdftex.def Info: diff.jpg  used on input line 684.
+(pdftex.def)             Requested size: 375.57782pt x 132.91824pt.
+[22 <./I_glad.jpg> <./diff.jpg>]
+<parab.jpg, id=427, 849.1725pt x 449.2785pt>
 File: parab.jpg Graphic file (type jpg)
 <use parab.jpg>
-Package pdftex.def Info: parab.jpg  used on input line 683.
-(pdftex.def)             Requested size: 389.00757pt x 205.81367pt.
- [25 <./parab.jpg>]
-<nakl.jpg, id=425, 849.1725pt x 449.2785pt>
+Package pdftex.def Info: parab.jpg  used on input line 707.
+(pdftex.def)             Requested size: 375.57782pt x 198.71146pt.
+ [23 <./parab.jpg>]
+<nakl.jpg, id=434, 849.1725pt x 449.2785pt>
 File: nakl.jpg Graphic file (type jpg)
 <use nakl.jpg>
-Package pdftex.def Info: nakl.jpg  used on input line 711.
-(pdftex.def)             Requested size: 389.00757pt x 205.81367pt.
- [26 <./nakl.jpg>]
-<compare.jpg, id=432, 642.4pt x 481.8pt>
+Package pdftex.def Info: nakl.jpg  used on input line 735.
+(pdftex.def)             Requested size: 375.57782pt x 198.71146pt.
+ [24 <./nakl.jpg>]
+<compare.jpg, id=442, 688.974pt x 563.706pt>
 File: compare.jpg Graphic file (type jpg)
 <use compare.jpg>
-Package pdftex.def Info: compare.jpg  used on input line 730.
-(pdftex.def)             Requested size: 291.75752pt x 218.82234pt.
- [27 <./compare.jpg>] [28] (Efremov_Diploma.bbl
-Underfull \hbox (badness 6125) in paragraph at lines 18--21
-[]\T2A/cmr/m/n/12 Future challenges based on the multiple biometric grand chall
-enge.  \T2A/cmr/m/it/12 NIST
+Package pdftex.def Info: compare.jpg  used on input line 754.
+(pdftex.def)             Requested size: 281.68515pt x 230.46724pt.
+<gist.jpg, id=444, 712.6625pt x 361.35pt>
+File: gist.jpg Graphic file (type jpg)
+<use gist.jpg>
+Package pdftex.def Info: gist.jpg  used on input line 768.
+(pdftex.def)             Requested size: 314.54436pt x 159.48521pt.
+<gist2.jpg, id=447, 712.6625pt x 358.33875pt>
+File: gist2.jpg Graphic file (type jpg)
+<use gist2.jpg>
+Package pdftex.def Info: gist2.jpg  used on input line 783.
+(pdftex.def)             Requested size: 314.54436pt x 158.15617pt.
+ [25 <./compare.jpg> <./gist.jpg>] [26 <./gist2.jpg>] [27] (Efremov_Diploma.bbl
+
+Underfull \hbox (badness 6001) in paragraph at lines 55--60
+[]\T2A/cmr/m/it/12 Adam M., Rossant F. et al. \T2A/cmr/m/n/12 Eyelid localizati
+on for iris identification //
+ []
+
+[28]
+Underfull \hbox (badness 2717) in paragraph at lines 132--137
+[]\T2A/cmr/m/it/12 Masek L. \T2A/cmr/m/n/12 Recognition of human iris patterns 
+for biometric identification //
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 27--29
-[]\T2A/cmr/m/n/12 Multiple biometric grand challenge (mbgc - 2007).  \T2A/cmr/m
-/it/12 http://www.nist.gov/
+Underfull \hbox (badness 1320) in paragraph at lines 175--180
+\T2A/cmr/m/it/12 Conference (International) on Computer Design and Applications
+ Proceedings\T2A/cmr/m/n/12 . 
  []
 
-[29])
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 755.
- [30]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 755.
+)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 829.
+ [29]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 829.
  (Efremov_Diploma.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 755.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 755.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 829.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 829.
 Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
-(rerunfilecheck)             Checksum: F56767469E1F633C2F1C76B1774A7214;5543.
-
-
-LaTeX Warning: There were multiply-defined labels.
-
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 755.
+(rerunfilecheck)             Checksum: DEFDF0A2256B05C0F4BFC3D5D9B497E4;6445.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 829.
  ) 
 Here is how much of TeX's memory you used:
- 16210 strings out of 480930
- 228294 string characters out of 2899761
- 535239 words of memory out of 3000000
- 31538 multiletter control sequences out of 15000+200000
+ 16205 strings out of 480930
+ 228366 string characters out of 2899761
+ 534913 words of memory out of 3000000
+ 31521 multiletter control sequences out of 15000+200000
  558399 words of font info for 90 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 46i,16n,47p,3246b,505s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 46i,16n,47p,3273b,523s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 ti1200.pk> <C:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/d
 pi600\lasx1200.pk> <C:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jkn
@@ -1175,29 +1186,30 @@ appen/ec/dpi600\tcrm1200.pk> <C:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/
 ljfour/lh/lh-t2a/dpi600\lasx1440.pk> <C:\Users\79855\AppData\Local\MiKTeX\2.9\f
 onts/pk/ljfour/lh/lh-t2a/dpi600\larm1000.pk> <C:\Users\79855\AppData\Local\MiKT
 eX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\lasx1728.pk> <C:\Users\79855\AppData\Lo
-cal\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\79855\Ap
-pData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\
-79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C
-:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm120
-0.pk><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfo
-nts/cm/cmbsy10.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type
-1/public/amsfonts/cm/cmbx12.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2
-.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/79855/AppData/Local/Prog
-rams/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/79855/AppDa
-ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb><C:/User
-s/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi8.
+cal\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\79855\Ap
+pData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\
+79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C
+:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600\labx172
+8.pk> <C:\Users\79855\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/lh/lh-t2a/dpi600
+\larm1200.pk><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmbsy10.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/79855/AppData/Local/Programs/
+MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/79855/AppData/Lo
+cal/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/798
+55/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+<C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/c
+m/cmmi8.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/publi
+c/amsfonts/cm/cmr10.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/79855/AppData/Local/Programs/MiKT
+eX 2.9/fonts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/79855/AppData/Local/Pr
+ograms/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/79855/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/User
+s/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.
 pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfon
-ts/cm/cmr10.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/p
-ublic/amsfonts/cm/cmr12.pfb><C:/Users/79855/AppData/Local/Programs/MiKTeX 2.9/f
-onts/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/79855/AppData/Local/Programs/M
-iKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/79855/AppData/Local
-/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/79855/
-AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
-Users/79855/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/public/amsfonts/symbo
-ls/msam10.pfb>
-Output written on Efremov_Diploma.pdf (30 pages, 2207186 bytes).
+ts/symbols/msam10.pfb>
+Output written on Efremov_Diploma.pdf (29 pages, 2527203 bytes).
 PDF statistics:
- 1034 PDF objects out of 1200 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 328 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1112 PDF objects out of 1200 (max. 8388607)
+ 151 named destinations out of 1000 (max. 500000)
+ 367 words of extra memory for PDF output out of 10000 (max. 10000000)
 

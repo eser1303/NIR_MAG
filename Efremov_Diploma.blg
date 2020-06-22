@@ -1,80 +1,47 @@
 This is BibTeX, Version 0.99d (MiKTeX 2.9.7400 64-bit)
 Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: Efremov_Diploma.aux
-The style file: plain.bst
+The style file: gost71s.bst
 Database file #1: mylib.bib
-Too many commas in name 1 of "Вельховер Е.С., Шульпина Н.Б., Алиева З.А., Ромашов Ф.Н." for entry Medic
-while executing---line 1049 of file plain.bst
-Warning--to sort, need author or key in Conf3
-Warning--to sort, need author or key in Terr
-Warning--to sort, need author or key in Tech
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
-while executing---line 1049 of file plain.bst
-Too many commas in name 1 of "Вельховер Е.С., Шульпина Н.Б., Алиева З.А., Ромашов Ф.Н." for entry Medic
-while executing---line 1090 of file plain.bst
-Warning--empty author in Conf3
-Warning--empty year in Conf3
-Warning--empty author in Terr
-Warning--empty year in Terr
-Warning--empty author in Tech
-Warning--empty year in Tech
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_2
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Adam M., Rossant F., Amiel F., Mikovikova B., Ea T." for entry Adam_1
-while executing---line 1090 of file plain.bst
-Too many commas in name 1 of "Yang L., Wu T., Dong Y., Fei L." for entry Yang
-while executing---line 1090 of file plain.bst
+Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 You've used 22 entries,
-            2118 wiz_defined-function locations,
-            635 strings with 7303 characters,
-and the built_in function-call counts, 5410 in all, are:
-= -- 536
-> -- 174
-< -- 1
-+ -- 78
-- -- 52
-* -- 310
-:= -- 931
-add.period$ -- 66
+            3062 wiz_defined-function locations,
+            828 strings with 8869 characters,
+and the built_in function-call counts, 9724 in all, are:
+= -- 1156
+> -- 251
+< -- 55
++ -- 96
+- -- 70
+* -- 622
+:= -- 1304
+add.period$ -- 89
 call.type$ -- 22
-change.case$ -- 92
+change.case$ -- 100
 chr.to.int$ -- 0
-cite$ -- 31
-duplicate$ -- 248
-empty$ -- 473
-format.name$ -- 52
-if$ -- 1121
+cite$ -- 22
+duplicate$ -- 444
+empty$ -- 826
+format.name$ -- 70
+if$ -- 2332
 int.to.chr$ -- 0
 int.to.str$ -- 22
-missing$ -- 22
-newline$ -- 110
-num.names$ -- 38
-pop$ -- 102
+missing$ -- 0
+newline$ -- 146
+num.names$ -- 95
+pop$ -- 147
 preamble$ -- 1
-purify$ -- 70
-quote$ -- 0
-skip$ -- 164
+purify$ -- 78
+quote$ -- 48
+skip$ -- 377
 stack$ -- 0
-substring$ -- 268
-swap$ -- 35
-text.length$ -- 1
+substring$ -- 644
+swap$ -- 208
+text.length$ -- 17
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 88
-warning$ -- 9
-while$ -- 48
+type$ -- 0
+warning$ -- 0
+while$ -- 84
 width$ -- 24
-write$ -- 221
-(There were 12 error messages)
+write$ -- 374

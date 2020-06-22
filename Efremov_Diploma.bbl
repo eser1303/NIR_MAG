@@ -1,128 +1,181 @@
 \begin{thebibliography}{10}
+\def\selectlanguageifdefined#1{
+\expandafter\ifx\csname date#1\endcsname\relax
+\else\language\csname l@#1\endcsname\fi}
+\ifx\undefined\url\def\url#1{{\small #1}}\else\fi
+\ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
+\ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
+\ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
 \bibitem{Medic}
-Алиева З.А. Ромашов~Ф.Н. Вельховер~Е.С.,
-  Шульпина~Н.Б.
-\newblock Иридодиагностика.
-\newblock {\em М.: Медицина,}, 1988.
-
-\bibitem{Smirn}
-Матвеев~И.А. Смирнов~Д.А.
-\newblock Определение границ век на
-  изображении глаза методом активных
-  контуров.
-\newblock {\em Труды ИСА РАН, Динамика неоднород-
-  ных систем.}, 2006.
-
-\bibitem{Conf3}
-Future challenges based on the multiple biometric grand challenge.
-\newblock {\em NIST Information Access Division: Multiple Biometric Grand
-  Challenge. February 2010. // http://face.nist.gov.}
-
-\bibitem{Terr}
-Multiple biometric evaluation (mbe2009).
-\newblock {\em http://www.nist.gov/ itl/iad/ig/mbe.cfm}.
-
-\bibitem{Tech}
-Multiple biometric grand challenge (mbgc - 2007).
-\newblock {\em http://www.nist.gov/ itl/iad/ig/mbgc.cfm}.
-
-\bibitem{Inter}
-Дьяконов~В. П.
-\newblock Справочник по алгоритмам и
-  программам на языке бейсик для
-  персональных ЭВМ.
-\newblock {\em М.: Наука}, 1987.
-
-\bibitem{Adam_2}
-Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
-\newblock Eyelid localization for iris identification.
-\newblock {\em Radioengineering}, 2008.
-
-\bibitem{Adam_1}
-Amiel F. Mikovikova B. Ea~T. Adam~M., Rossant~F.
-\newblock Reliable eyelid localization for iris identification.
-\newblock {\em Advanced Concepts for Intelligent Vision Systems Conference
-  Proceedings}, 2008.
-
-\bibitem{Hough_Parab}
-D.~H. Ballard.
-\newblock Generalizing the hough transform to detect arbitrary shapes.
-\newblock {\em Pattern Recognition}, 1981.
-
-\bibitem{Canny}
-J~Canny.
-\newblock A computational approach to edge detection.
-\newblock {\em IEEE Trans. Pattern Anal. Mach. Intell.}, 8(6):679–698, June
-  1986.
-
-\bibitem{Daugman4}
-John Daugman.
-\newblock The importance of being random: statistical principles of iris
-  recognition.
-\newblock {\em Pattern Recognition}, 36(2):279--291, feb 2003.
-
-\bibitem{Daugman}
-John Daugman.
-\newblock How iris recognition works.
-\newblock In {\em Handbook of Image and Video Processing}, pages 1251--1262.
-  Elsevier, 2005.
-
-\bibitem{Radon}
-Stanley~R. Deans.
-\newblock The radon transform and some of its applications.
-\newblock {\em New York: John Wiley and Sons}, 1983.
-
-\bibitem{Daugman2}
-Daugman J.
-\newblock Biometric personal identification system based on iris analysis.
-\newblock {\em (U.S. Patent), 29160}, 1994.
-
-\bibitem{Daugman3}
-Daugman J.
-\newblock High confidence visual recognition of persons by a test of
-  statistical independence.
-\newblock {\em IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  2013.
-
-\bibitem{KP}
-Byung~Jun Kang and Kang~Ryoung Park.
-\newblock A robust eyelash detection based on iris focus assessment.
-\newblock {\em Pattern Recognition Letters}, 28(13):1630--1639, oct 2007.
-
-\bibitem{Masek}
-Masek L.
-\newblock Recognition of human iris patterns for biometric identification.
-\newblock {\em Measurement}, 2003.
-
-\bibitem{Min}
-Tae-Hong Min and Rae-Hong Park.
-\newblock Comparison of eyelid and eyelash detection algorithms for performance
-  improvement of iris recognition.
-\newblock In {\em 2008 15th {IEEE} International Conference on Image
-  Processing}. {IEEE}, 2008.
+\selectlanguageifdefined{english}
+\BibEmph{{Вельховер Е.С.}, {Шульпина Н.Б.}, {Алиева
+  З.А. и др.}} Иридодиагностика~// \BibEmph{М.:
+  Медицина}. "---
+\newblock 1988. "---
+\newblock P.~240.
 
 \bibitem{Matv}
-Matveev~I. Solomatin~I.
-\newblock Detecting visible areas of iris by qualifier of local textural
-  features.
-\newblock {\em J. Machine Learning Data Anal}, 2016.
+\selectlanguageifdefined{english}
+\BibEmph{{Соломатин И.А.}, {Матвеев И.А.}, {Новик
+  В.П.}} Определение видимой области радужки
+  классификатором текстур с опорным
+  множеством~// \BibEmph{Автоматика и
+  телемеханика}. "---
+\newblock 2018. "---
+\newblock Pp.~127--143.
+
+\bibitem{Smirn}
+\selectlanguageifdefined{english}
+\BibEmph{{Смирнов Д.А.}, {Матвеев И.А.}}
+  Определение границ век на изображении
+  глаза методом активных контуров~//
+  \BibEmph{Труды ИСА РАН, Динамика неоднородных
+  систем}. "---
+\newblock 2006. "---
+\newblock Vol.~25. "---
+\newblock Pp.~200--207.
+
+\bibitem{GV}
+\selectlanguageifdefined{english}
+\BibEmph{{Гонсалес Р.}, {Вудс Р.}} Цифровая
+  обработка изображений~// \BibEmph{Техносфера}.
+  "---
+\newblock 2012.
+
+\bibitem{Inter}
+\selectlanguageifdefined{english}
+\BibEmph{{Дьяконов В.П.}} Справочник по
+  алгоритмам и программам на языке бейсик
+  для персональных ЭВМ~// \BibEmph{М.: Наука}. "---
+\newblock 1987.
+
+\bibitem{Adam_2}
+\selectlanguageifdefined{english}
+\BibEmph{Adam~M., Rossant~F. et~al.} Eyelid localization for iris
+  identification~// \BibEmph{Radioengineering}. "---
+\newblock 2008. "---
+\newblock Vol.~17, no.~4. "---
+\newblock Pp.~82--85.
+
+\bibitem{Adam_1}
+\selectlanguageifdefined{english}
+\BibEmph{Adam~M., Rossant~F. et~al.} Reliable eyelid localization for iris
+  identification~// \BibEmph{Advanced Concepts for Intelligent Vision Systems
+  Conference Proceedings}. "---
+\newblock 2008. "---
+\newblock Pp.~1062--1070.
+
+\bibitem{Hough_Parab}
+\selectlanguageifdefined{english}
+\BibEmph{Ballard~D.} Generalizing the hough transform to detect arbitrary
+  shapes~// \BibEmph{Pattern Recognition}. "---
+\newblock 1981. "---
+\newblock Vol.~13, no.~2. "---
+\newblock Pp.~111--122.
+
+\bibitem{Canny}
+\selectlanguageifdefined{english}
+\BibEmph{Canny~J.} A computational approach to edge detection~// \BibEmph{IEEE
+  Trans. Pattern Anal. Mach. Intell.} "---
+\newblock 1986. "---
+\newblock Vol.~8, no.~6. "---
+\newblock Pp.~679--698.
+
+\bibitem{Daugman2}
+\selectlanguageifdefined{english}
+\BibEmph{Daugman~J.} High confidence visual recognition of persons by a test of
+  statistical independence~// \BibEmph{IEEE Transactions on Pattern Analysis
+  and Machine Intelligence}. "---
+\newblock 1993. "---
+\newblock Vol.~15, no.~11. "---
+\newblock Pp.~1148--1161.
+
+\bibitem{Daugman4}
+\selectlanguageifdefined{english}
+\BibEmph{Daugman~J.} The importance of being random: statistical principles of
+  iris recognition~// \BibEmph{Pattern Recognit.} "---
+\newblock 2003. "---
+\newblock Vol.~36. "---
+\newblock Pp.~279--291.
+
+\bibitem{Daugman}
+\selectlanguageifdefined{english}
+\BibEmph{Daugman~J.} How iris recognition works~// \BibEmph{IEEE Trans.
+  Circuits Syst. Video Techn.} "---
+\newblock 2004. "---
+\newblock Vol.~14. "---
+\newblock Pp.~21--30.
+
+\bibitem{Radon}
+\selectlanguageifdefined{english}
+\BibEmph{Deans~S.} The radon transform and some of its applications~//
+  \BibEmph{New York: John Wiley and Sons}. "---
+\newblock 1983.
+
+\bibitem{Conf3}
+\selectlanguageifdefined{english}
+Future challenges based on the multiple biometric grand challenge // {NIST}
+  information access division: Multiple biometric grand challenge. "---
+\newblock 2010.
+
+\bibitem{KP}
+\selectlanguageifdefined{english}
+\BibEmph{Kang~B., Park~K.} A robust eyelash detection based on iris focus
+  assessment~// \BibEmph{Pattern Recognition Letters}. "---
+\newblock 2007. "---
+\newblock Vol.~28, no.~13. "---
+\newblock Pp.~1630--1639.
+
+\bibitem{Masek}
+\selectlanguageifdefined{english}
+\BibEmph{Masek~L.} Recognition of human iris patterns for biometric
+  identification~// \BibEmph{Measurement}. "---
+\newblock 2003. "---
+\newblock Vol.~32, no.~8. "---
+\newblock Pp.~1502--1516.
+
+\bibitem{Min}
+\selectlanguageifdefined{english}
+\BibEmph{Min~T., Park~R.} Comparison of eyelid and eyelash detection algorithms
+  for performance improvement of iris recognition~// \BibEmph{Conference
+  (International) on Image Processings Proceedings}. "---
+\newblock 2008. "---
+\newblock Pp.~257--260.
+
+\bibitem{Terr}
+\selectlanguageifdefined{english}
+Multiple biometric evaluation // http://www.nist.gov/itl/iad/ig/mbe.cfm. "---
+\newblock 2009.
+
+\bibitem{Tech}
+\selectlanguageifdefined{english}
+Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
+  "---
+\newblock 2007.
 
 \bibitem{Wildes}
-R.P. Wildes.
-\newblock Iris recognition: an emerging biometric technology.
-\newblock {\em Proceedings of the {IEEE}}, 85(9):1348--1363, 1997.
-
-\bibitem{Yang}
-Dong Y. Fei~L. Yang~L., Wu~T.
-\newblock Eyelid localization using asymmetric canny operator.
-\newblock {\em Conference (International) on Computer Design and Applications
-  Proceedings}, 2010.
+\selectlanguageifdefined{english}
+\BibEmph{Wildes~R.} Iris recognition: an emerging biometric technology~//
+  \BibEmph{Proceedings of the {IEEE}}. "---
+\newblock 1997. "---
+\newblock Vol.~85, no.~9. "---
+\newblock Pp.~1348--1363.
 
 \bibitem{KKX}
-Xiangde Zhang, Qi~Wang, Hegui Zhu, Cuili Yao, Longcheng Gao, and Xianyan Liu.
-\newblock Noise detection of iris image based on texture analysis.
-\newblock In {\em 2009 Chinese Control and Decision Conference}. {IEEE}, jun
-  2009.
+\selectlanguageifdefined{english}
+\BibEmph{Xiangde~Z., Qi~W. et~al.} Noise detection of iris image based on
+  texture analysis~// \BibEmph{Chinese Control and Decision Conference
+  Proceedings}. "---
+\newblock 2009. "---
+\newblock Pp.~2366--2370.
+
+\bibitem{Yang}
+\selectlanguageifdefined{english}
+\BibEmph{Yang~L., Wu~T. et~al.} Eyelid localization using asymmetric canny
+  operator~// \BibEmph{Conference (International) on Computer Design and
+  Applications Proceedings}. "---
+\newblock 2010. "---
+\newblock Pp.~533--535.
 
 \end{thebibliography}
