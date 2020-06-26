@@ -4,7 +4,7 @@
 \contentsline {section}{\numberline {2}Постановка задачи}{7}{section.2}%
 \contentsline {subsection}{\numberline {2.1}Задача выделения века}{7}{subsection.2.1}%
 \contentsline {subsection}{\numberline {2.2}Формальная постановка задачи}{8}{subsection.2.2}%
-\contentsline {subsection}{\numberline {2.3}Альтернативная оценка качества}{9}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.3}Оценка качества}{9}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Обзор существующих методов}{10}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Модели аппроксимации века}{10}{subsection.3.1}%
 \contentsline {subsubsection}{\numberline {3.1.1}Эллиптический контур века}{10}{subsubsection.3.1.1}%
@@ -15,7 +15,7 @@
 \contentsline {subsubsection}{\numberline {3.2.3}Оператор Превитта}{14}{subsubsection.3.2.3}%
 \contentsline {subsubsection}{\numberline {3.2.4}Оператор Собеля}{14}{subsubsection.3.2.4}%
 \contentsline {subsubsection}{\numberline {3.2.5}Преобразование Хафа}{15}{subsubsection.3.2.5}%
-\contentsline {subsubsection}{\numberline {3.2.6}Преобразование Радона}{18}{subsubsection.3.2.6}%
+\contentsline {subsubsection}{\numberline {3.2.6}Преобразование Радона}{17}{subsubsection.3.2.6}%
 \contentsline {subsubsection}{\numberline {3.2.7}Интегро-дифференциальный оператор (IDO)}{18}{subsubsection.3.2.7}%
 \contentsline {subsubsection}{\numberline {3.2.8}Оператор Кэнни}{19}{subsubsection.3.2.8}%
 \contentsline {section}{\numberline {4}Описание модели}{20}{section.4}%
