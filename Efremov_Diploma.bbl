@@ -7,49 +7,6 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{Medic}
-\selectlanguageifdefined{english}
-\BibEmph{{Вельховер Е.С.}, {Шульпина Н.Б.}, {Алиева
-  З.А. и др.}} Иридодиагностика~// \BibEmph{М.:
-  Медицина}. "---
-\newblock 1988. "---
-\newblock P.~240.
-
-\bibitem{Matv}
-\selectlanguageifdefined{english}
-\BibEmph{{Соломатин И.А.}, {Матвеев И.А.}, {Новик
-  В.П.}} Определение видимой области радужки
-  классификатором текстур с опорным
-  множеством~// \BibEmph{Автоматика и
-  телемеханика}. "---
-\newblock 2018. "---
-\newblock Pp.~127--143.
-
-\bibitem{Smirn}
-\selectlanguageifdefined{english}
-\BibEmph{{Смирнов Д.А.}, {Матвеев И.А.}}
-  Определение границ век на изображении
-  глаза методом активных контуров~//
-  \BibEmph{Труды ИСА РАН, Динамика неоднородных
-  систем}. "---
-\newblock 2006. "---
-\newblock Vol.~25. "---
-\newblock Pp.~200--207.
-
-\bibitem{GV}
-\selectlanguageifdefined{english}
-\BibEmph{{Гонсалес Р.}, {Вудс Р.}} Цифровая
-  обработка изображений~// \BibEmph{Техносфера}.
-  "---
-\newblock 2012.
-
-\bibitem{Inter}
-\selectlanguageifdefined{english}
-\BibEmph{{Дьяконов В.П.}} Справочник по
-  алгоритмам и программам на языке бейсик
-  для персональных ЭВМ~// \BibEmph{М.: Наука}. "---
-\newblock 1987.
-
 \bibitem{Adam_2}
 \selectlanguageifdefined{english}
 \BibEmph{Adam~M., Rossant~F. et~al.} Eyelid localization for iris
@@ -177,5 +134,48 @@ Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
   Applications Proceedings}. "---
 \newblock 2010. "---
 \newblock Pp.~533--535.
+
+\bibitem{Medic}
+\selectlanguageifdefined{english}
+\BibEmph{{Вельховер Е.С.}, {Шульпина Н.Б.}, {Алиева
+  З.А. и др.}} Иридодиагностика~// \BibEmph{М.:
+  Медицина}. "---
+\newblock 1988. "---
+\newblock P.~240.
+
+\bibitem{GV}
+\selectlanguageifdefined{english}
+\BibEmph{{Гонсалес Р.}, {Вудс Р.}} Цифровая
+  обработка изображений~// \BibEmph{Техносфера}.
+  "---
+\newblock 2012.
+
+\bibitem{Inter}
+\selectlanguageifdefined{english}
+\BibEmph{{Дьяконов В.П.}} Справочник по
+  алгоритмам и программам на языке бейсик
+  для персональных ЭВМ~// \BibEmph{М.: Наука}. "---
+\newblock 1987.
+
+\bibitem{Smirn}
+\selectlanguageifdefined{english}
+\BibEmph{{Смирнов Д.А.}, {Матвеев И.А.}}
+  Определение границ век на изображении
+  глаза методом активных контуров~//
+  \BibEmph{Труды ИСА РАН, Динамика неоднородных
+  систем}. "---
+\newblock 2006. "---
+\newblock Vol.~25. "---
+\newblock Pp.~200--207.
+
+\bibitem{Matv}
+\selectlanguageifdefined{english}
+\BibEmph{{Соломатин И.А.}, {Матвеев И.А.}, {Новик
+  В.П.}} Определение видимой области радужки
+  классификатором текстур с опорным
+  множеством~// \BibEmph{Автоматика и
+  телемеханика}. "---
+\newblock 2018. "---
+\newblock Pp.~127--143.
 
 \end{thebibliography}
