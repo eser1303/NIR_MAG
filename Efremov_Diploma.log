@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  10 APR 2022 21:14
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  10 APR 2022 22:36
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -914,35 +914,25 @@ File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 \tf@toc=\write6
 \openout6 = `Efremov_Diploma.toc'.
 
- [3]
-Underfull \vbox (badness 7685) has occurred while \output is active []
-
- [4]
-<glaz.jpg, id=176, 525.76425pt x 320.397pt>
-File: glaz.jpg Graphic file (type jpg)
-<use glaz.jpg>
-Package pdftex.def Info: glaz.jpg  used on input line 84.
-(pdftex.def)             Requested size: 281.68515pt x 171.65758pt.
-
-[5 <./glaz.jpg>]
-Underfull \hbox (badness 1874) in paragraph at lines 108--109
+ [3] [4]
+Underfull \hbox (badness 1874) in paragraph at lines 88--89
 []\T2A/cmr/m/n/12 разработать ал-го-ритм внед-ре-ния раз-ра-бо-тан-но-го ин-стр
 у-мен-та-рия в бизнес-
  []
 
-[6] [7]
-Underfull \hbox (badness 1472) in paragraph at lines 136--137
+[5] [6]
+Underfull \hbox (badness 1472) in paragraph at lines 116--117
 []\T2A/cmr/m/n/12 изучить опре-де-ле-ние по-ня-тий: ѕмо-ни-то-рингї, ѕэф-фек-ти
 в-ность мо-ни-то-рин-гаї,
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 154--155
+Underfull \hbox (badness 1478) in paragraph at lines 134--135
 []\T2A/cmr/m/n/12 мониторинг эф-фек-тив-но-сти ин-ве-сти-ци-он-но-го про-ек-та 
 (по-ка-за-те-лей, ко-то-рые
  []
 
-[8] [9] [10] [11] [12] [13] [14] [15] [16] [17] (Efremov_Diploma.bbl
+[7] [8] [9] [10] [11] [12] [13] [14] [15] [16] (Efremov_Diploma.bbl
 Underfull \hbox (badness 6001) in paragraph at lines 12--17
 []\T2A/cmr/m/it/12 Adam M., Rossant F. et al. \T2A/cmr/m/n/12 Eyelid localizati
 on for iris identification //
@@ -954,39 +944,38 @@ Underfull \hbox (badness 2717) in paragraph at lines 89--94
 for biometric identification //
  []
 
-[18]
+[17]
 Underfull \hbox (badness 1320) in paragraph at lines 132--137
 \T2A/cmr/m/it/12 Conference (International) on Computer Design and Applications
  Proceedings\T2A/cmr/m/n/12 . ^^V
  []
 
-) [19] (Efremov_Diploma.aux)
+) [18] (Efremov_Diploma.aux)
 Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 7F8DA6EE02FE0D60CFBB74A1EC5C74F3;8198.
  ) 
 Here is how much of TeX's memory you used:
- 16809 strings out of 478582
- 256029 string characters out of 2844345
- 601464 words of memory out of 3000000
- 34589 multiletter control sequences out of 15000+600000
- 488319 words of font info for 72 fonts, out of 8000000 for 9000
+ 16793 strings out of 478582
+ 255849 string characters out of 2844345
+ 601400 words of memory out of 3000000
+ 34579 multiletter control sequences out of 15000+600000
+ 487522 words of font info for 71 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,77p,3273b,524s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,5n,77p,3273b,528s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 sx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
 600\tcrm1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a
 /dpi600\lasx1440.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh
--t2a/dpi600\larm1000.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/l
-h/lh-t2a/dpi600\lasx1728.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfo
-ur/lh/lh-t2a/dpi600\larm1095.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/
-ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts
-/pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\f
-onts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\efrem\AppData\Local\MiKT
-eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
-Output written on Efremov_Diploma.pdf (19 pages, 358061 bytes).
+-t2a/dpi600\lasx1728.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/l
+h/lh-t2a/dpi600\larm1095.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfo
+ur/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/
+ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts
+/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\efrem\AppData\Local\MiKTeX\f
+onts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk>
+Output written on Efremov_Diploma.pdf (18 pages, 220794 bytes).
 PDF statistics:
- 784 PDF objects out of 1000 (max. 8388607)
- 72 named destinations out of 1000 (max. 500000)
- 242 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 748 PDF objects out of 1000 (max. 8388607)
+ 70 named destinations out of 1000 (max. 500000)
+ 237 words of extra memory for PDF output out of 10000 (max. 10000000)
 
