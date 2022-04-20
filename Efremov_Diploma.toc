@@ -6,23 +6,23 @@
 \contentsline {subsection}{\numberline {2.2}Эффективность мониторинга}{8}{subsection.2.2}%
 \contentsline {subsection}{\numberline {2.3}Предиктивная аналитика}{9}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Обзор действующей практики}{11}{section.3}%
-\contentsline {subsection}{\numberline {3.1}Анализ существующих проектов}{11}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Проект 1}{11}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Проект 2}{11}{subsubsection.3.1.2}%
-\contentsline {subsection}{\numberline {3.2}Текущее состояние финансирования в сфере жилищного строительства}{11}{subsection.3.2}%
-\contentsline {subsubsection}{\numberline {3.2.1}Ключевой топик 1}{11}{subsubsection.3.2.1}%
-\contentsline {subsubsection}{\numberline {3.2.2}Ключевой топик 2}{11}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Процесс мониторинга проектов и методы оценки коммерческим банком}{11}{subsection.3.3}%
-\contentsline {subsection}{\numberline {3.4}Типы моделей предиктивной аналитики и их применение в кредитном процессе}{11}{subsection.3.4}%
-\contentsline {section}{\numberline {4}Формальная постановка задачи}{12}{section.4}%
-\contentsline {subsection}{\numberline {4.1}Ключевые проблемы процесса мониторинга проектов}{12}{subsection.4.1}%
-\contentsline {subsection}{\numberline {4.2}Возможности внедрения с учетом консервативности и систем безопасности банка}{12}{subsection.4.2}%
-\contentsline {section}{\numberline {5}Описание модели}{13}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Этап предобработки данных}{13}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Ядро модели}{13}{subsection.5.2}%
-\contentsline {section}{\numberline {6}Результаты работы алгоритма}{14}{section.6}%
-\contentsline {subsection}{\numberline {6.1}Пример полученных результатов - ключевые атрибуты}{14}{subsection.6.1}%
-\contentsline {subsection}{\numberline {6.2}Сравнение результатов с другими методами}{14}{subsection.6.2}%
-\contentsline {subsection}{\numberline {6.3}Сравнение результатов с оценкой предложенной метрики качества}{14}{subsection.6.3}%
-\contentsline {section}{\numberline {7}Экономический эффект от внедрения модели}{15}{section.7}%
-\contentsline {section}{\numberline {8}Заключение}{16}{section.8}%
+\contentsline {subsection}{\numberline {3.1}Анализ текущего состояния рынка жилищного строительства и тенденции развития}{11}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Проект 1}{12}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Проект 2}{12}{subsubsection.3.1.2}%
+\contentsline {subsection}{\numberline {3.2}Текущее состояние финансирования в сфере жилищного строительства}{12}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}Основные источники финансирования }{12}{subsubsection.3.2.1}%
+\contentsline {subsubsection}{\numberline {3.2.2}Эскроу-счета}{13}{subsubsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.3}Процесс мониторинга проектов и методы оценки коммерческим банком}{15}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.4}Типы моделей предиктивной аналитики и их применение в кредитном процессе}{17}{subsection.3.4}%
+\contentsline {section}{\numberline {4}Формальная постановка задачи}{20}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Ключевые проблемы процесса мониторинга проектов}{20}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Возможности внедрения с учетом консервативности и систем безопасности банка}{20}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Описание модели}{21}{section.5}%
+\contentsline {subsection}{\numberline {5.1}Этап предобработки данных}{21}{subsection.5.1}%
+\contentsline {subsection}{\numberline {5.2}Ядро модели}{21}{subsection.5.2}%
+\contentsline {section}{\numberline {6}Результаты работы алгоритма}{22}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Пример полученных результатов - ключевые атрибуты}{22}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Сравнение результатов с другими методами}{22}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}Сравнение результатов с оценкой предложенной метрики качества}{22}{subsection.6.3}%
+\contentsline {section}{\numberline {7}Экономический эффект от внедрения модели}{23}{section.7}%
+\contentsline {section}{\numberline {8}Заключение}{24}{section.8}%
