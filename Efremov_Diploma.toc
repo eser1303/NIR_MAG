@@ -7,8 +7,6 @@
 \contentsline {subsection}{\numberline {2.3}Предиктивная аналитика}{9}{subsection.2.3}%
 \contentsline {section}{\numberline {3}Обзор действующей практики}{11}{section.3}%
 \contentsline {subsection}{\numberline {3.1}Анализ текущего состояния рынка жилищного строительства и тенденции развития}{11}{subsection.3.1}%
-\contentsline {subsubsection}{\numberline {3.1.1}Проект 1}{12}{subsubsection.3.1.1}%
-\contentsline {subsubsection}{\numberline {3.1.2}Проект 2}{12}{subsubsection.3.1.2}%
 \contentsline {subsection}{\numberline {3.2}Текущее состояние финансирования в сфере жилищного строительства}{12}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Основные источники финансирования }{12}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Эскроу-счета}{13}{subsubsection.3.2.2}%
