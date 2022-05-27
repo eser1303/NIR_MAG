@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  21 APR 2022 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  27 MAY 2022 16:54
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -794,27 +794,27 @@ File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )<<t2a.cmap>>)
 \openout1 = `Efremov_Diploma.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 18.
-LaTeX Font Info:    ... okay on input line 18.
-LaTeX Info: Redefining \th on input line 18.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 22.
+LaTeX Font Info:    ... okay on input line 22.
+LaTeX Info: Redefining \th on input line 22.
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
 ii
@@ -852,19 +852,19 @@ File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
 <<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 22.
 
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 22.
 
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Package xypdf Info: Line width: 0.47998pt on input line 18.
+Package xypdf Info: Line width: 0.47998pt on input line 22.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -900,7 +900,7 @@ Package xypdf Info: Line width: 0.47998pt on input line 18.
 * \@reversemarginfalse
 * (1in=72.27pt=25.4mm, 1cm=28.453pt)
 
-Package hyperref Info: Link coloring OFF on input line 18.
+Package hyperref Info: Link coloring OFF on input line 22.
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\nameref.sty
 Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
 
@@ -913,9 +913,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count334
 )
-LaTeX Info: Redefining \ref on input line 18.
-LaTeX Info: Redefining \pageref on input line 18.
-LaTeX Info: Redefining \nameref on input line 18.
+LaTeX Info: Redefining \ref on input line 22.
+LaTeX Info: Redefining \pageref on input line 22.
+LaTeX Info: Redefining \nameref on input line 22.
  (Efremov_Diploma.out) (Efremov_Diploma.out)
 \@outlinefile=\write5
 \openout5 = `Efremov_Diploma.out'.
@@ -924,73 +924,135 @@ LaTeX Info: Redefining \nameref on input line 18.
 
 {C:/Users/efrem/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2]
 LaTeX Font Info:    Trying to load font information for T2A+cmss on input line 
-67.
+71.
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/cyrillic\t2acmss.fd
 File: t2acmss.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
 )
-(Efremov_Diploma.toc)
+(Efremov_Diploma.toc [3])
 \tf@toc=\write6
 \openout6 = `Efremov_Diploma.toc'.
 
- [3] [4]
-Underfull \hbox (badness 1874) in paragraph at lines 88--89
+ [4] [5]
+Underfull \hbox (badness 1874) in paragraph at lines 92--93
 []\T2A/cmr/m/n/12 разработать ал-го-ритм внед-ре-ния раз-ра-бо-тан-но-го ин-стр
 у-мен-та-рия в бизнес-
  []
 
-[5] [6]
-Underfull \hbox (badness 1472) in paragraph at lines 116--117
+[6] [7]
+Underfull \hbox (badness 1472) in paragraph at lines 120--121
 []\T2A/cmr/m/n/12 изучить опре-де-ле-ние по-ня-тий: ѕмо-ни-то-рингї, ѕэф-фек-ти
 в-ность мо-ни-то-рин-гаї,
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 134--135
+Underfull \hbox (badness 1478) in paragraph at lines 138--139
 []\T2A/cmr/m/n/12 мониторинг эф-фек-тив-но-сти ин-ве-сти-ци-он-но-го про-ек-та 
 (по-ка-за-те-лей, ко-то-рые
  []
 
-[7] [8] [9] [10]
-<develop_dynam.jpg, id=188, 464.33475pt x 266.79675pt>
+[8] [9] [10] [11]
+<develop_dynam.jpg, id=252, 464.33475pt x 266.79675pt>
 File: develop_dynam.jpg Graphic file (type jpg)
 <use develop_dynam.jpg>
-Package pdftex.def Info: develop_dynam.jpg  used on input line 200.
+Package pdftex.def Info: develop_dynam.jpg  used on input line 204.
 (pdftex.def)             Requested size: 328.6279pt x 188.82857pt.
- [11 <./develop_dynam.jpg>]
-<fin_source_clas.jpg, id=199, 753.41475pt x 389.65575pt>
+ [12 <./develop_dynam.jpg>]
+<fin_source_clas.jpg, id=263, 753.41475pt x 389.65575pt>
 File: fin_source_clas.jpg Graphic file (type jpg)
 <use fin_source_clas.jpg>
-Package pdftex.def Info: fin_source_clas.jpg  used on input line 225.
+Package pdftex.def Info: fin_source_clas.jpg  used on input line 229.
 (pdftex.def)             Requested size: 328.6279pt x 169.96263pt.
- [12 <./fin_source_clas.jpg>]
-[13]
-<eskrou_dynam.jpg, id=211, 544.434pt x 325.215pt>
+ [13 <./fin_source_clas.jpg>]
+[14]
+<eskrou_dynam.jpg, id=275, 544.434pt x 325.215pt>
 File: eskrou_dynam.jpg Graphic file (type jpg)
 <use eskrou_dynam.jpg>
-Package pdftex.def Info: eskrou_dynam.jpg  used on input line 261.
+Package pdftex.def Info: eskrou_dynam.jpg  used on input line 265.
 (pdftex.def)             Requested size: 328.6279pt x 196.31154pt.
- [14 <./eskrou_dynam.jpg>] [15] [16] [17]
-Underfull \hbox (badness 2368) in paragraph at lines 341--343
+ [15 <./eskrou_dynam.jpg>] [16] [17] [18]
+Underfull \hbox (badness 2368) in paragraph at lines 345--347
 \T2A/cmr/m/n/12 пред-став-ле-на в ви-де иерар-хи-че-ской сту-пен-ча-той
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 []|\T2A/cmr/m/n/12 CHAID (Chi-squared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 344--344
+Underfull \hbox (badness 10000) in paragraph at lines 348--348
 \T2A/cmr/m/n/12 Automatic Interaction
  []
 
 
-Underfull \hbox (badness 7649) in paragraph at lines 359--359
+Underfull \hbox (badness 7649) in paragraph at lines 363--363
 []|\T2A/cmr/m/n/12 Байесовкий клас-си-фи-ка-
  []
 
-[18] [19] [20] [21] [22] [23] [24] (Efremov_Diploma.bbl
+[19] [20] [21] [22] [23]
+<loss_func.jpg, id=333, 765.45975pt x 483.60675pt>
+File: loss_func.jpg Graphic file (type jpg)
+<use loss_func.jpg>
+Package pdftex.def Info: loss_func.jpg  used on input line 478.
+(pdftex.def)             Requested size: 328.6279pt x 207.62216pt.
+ [24 <./loss_func.jpg>]
+<tcross_val.jpg, id=343, 380.01974pt x 178.266pt>
+File: tcross_val.jpg Graphic file (type jpg)
+<use tcross_val.jpg>
+Package pdftex.def Info: tcross_val.jpg  used on input line 501.
+(pdftex.def)             Requested size: 328.6279pt x 154.16531pt.
+ [25 <./tcross_val.jpg>]
+[26] [27] [28]
+<neyron.jpg, id=388, 424.58624pt x 271.76532pt>
+File: neyron.jpg Graphic file (type jpg)
+<use neyron.jpg>
+Package pdftex.def Info: neyron.jpg  used on input line 636.
+(pdftex.def)             Requested size: 234.73524pt x 150.24683pt.
+ [29]
+<neyron_net.jpg, id=397, 499.8675pt x 268.00125pt>
+File: neyron_net.jpg Graphic file (type jpg)
+<use neyron_net.jpg>
+Package pdftex.def Info: neyron_net.jpg  used on input line 649.
+(pdftex.def)             Requested size: 375.57782pt x 201.37256pt.
+
+
+LaTeX Warning: Reference `' on page 30 undefined on input line 662.
+
+[30 <./neyron.jpg> <./neyron_net.jpg>]
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 693.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (Unicode):
+(hyperref)                removing `math shift' on input line 693.
+
+[31] [32] [33]
+<data_source.jpg, id=426, 957.5775pt x 261.97874pt>
+File: data_source.jpg Graphic file (type jpg)
+<use data_source.jpg>
+Package pdftex.def Info: data_source.jpg  used on input line 735.
+(pdftex.def)             Requested size: 469.47049pt x 128.43866pt.
+<data_tract.jpg, id=428, 682.34924pt x 189.70876pt>
+File: data_tract.jpg Graphic file (type jpg)
+<use data_tract.jpg>
+Package pdftex.def Info: data_tract.jpg  used on input line 755.
+(pdftex.def)             Requested size: 469.47049pt x 130.52286pt.
+ [34 <./data_source.jpg> <./data_tract.jpg>]
+<k-means.jpg, id=436, 629.9535pt x 224.63925pt>
+File: k-means.jpg Graphic file (type jpg)
+<use k-means.jpg>
+Package pdftex.def Info: k-means.jpg  used on input line 778.
+(pdftex.def)             Requested size: 375.57782pt x 133.93108pt.
+
+Underfull \vbox (badness 10000) has occurred while \output is active []
+
+ [35 <./k-means.jpg>]
+
+LaTeX Warning: Reference `fig:porclas' on page 36 undefined on input line 809.
+
+[36] [37] [38] [39] (Efremov_Diploma.bbl
 Underfull \hbox (badness 6001) in paragraph at lines 12--17
 []\T2A/cmr/m/it/12 Adam M., Rossant F. et al. \T2A/cmr/m/n/12 Eyelid localizati
 on for iris identification //
@@ -1002,24 +1064,27 @@ Underfull \hbox (badness 2717) in paragraph at lines 89--94
 for biometric identification //
  []
 
-[25]
+[40]
 Underfull \hbox (badness 1320) in paragraph at lines 132--137
 \T2A/cmr/m/it/12 Conference (International) on Computer Design and Applications
  Proceedings\T2A/cmr/m/n/12 . ^^V
  []
 
-) [26] (Efremov_Diploma.aux)
+) [41] (Efremov_Diploma.aux)
+
+LaTeX Warning: There were undefined references.
+
 Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
-(rerunfilecheck)             Checksum: A0DA720323D9016B4C5E655B10BD81A3;8439.
+(rerunfilecheck)             Checksum: FCCD6DE4CF36A7DC5F14FB7CEBF54BED;11183.
  ) 
 Here is how much of TeX's memory you used:
- 16933 strings out of 478582
- 257965 string characters out of 2844345
- 605986 words of memory out of 3000000
- 34696 multiletter control sequences out of 15000+600000
- 489925 words of font info for 74 fonts, out of 8000000 for 9000
+ 17168 strings out of 478582
+ 261179 string characters out of 2844345
+ 609893 words of memory out of 3000000
+ 34820 multiletter control sequences out of 15000+600000
+ 493479 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,6n,77p,3273b,521s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,16n,77p,3273b,523s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 sx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1032,12 +1097,26 @@ ljfour/lh/lh-t2a/dpi600\labx1095.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts
 /pk/ljfour/lh/lh-t2a/dpi600\labx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\f
 onts/pk/ljfour/lh/lh-t2a/dpi600\labx1728.pk> <C:\Users\efrem\AppData\Local\MiKT
 eX\fonts/pk/ljfour/lh/lh-t2a/dpi600\larm1200.pk><C:/Users/efrem/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/efrem/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/efrem/
-AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on Efremov_Diploma.pdf (26 pages, 742467 bytes).
+rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/efrem/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/efr
+em/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/
+Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi12
+.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/
+cm/cmmi6.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
+msfonts/cm/cmmi8.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/
+public/amsfonts/cm/cmr12.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/font
+s/type1/public/amsfonts/cm/cmr6.pfb><C:/Users/efrem/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr7.pfb><C:/Users/efrem/AppData/Local/Progra
+ms/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/efrem/AppData/Local
+/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/efrem/AppD
+ata/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy6.pfb><C:/Users/ef
+rem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
+Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
+sam10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
+onts/symbols/msbm10.pfb>
+Output written on Efremov_Diploma.pdf (41 pages, 1514212 bytes).
 PDF statistics:
- 849 PDF objects out of 1000 (max. 8388607)
- 80 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1181 PDF objects out of 1200 (max. 8388607)
+ 158 named destinations out of 1000 (max. 500000)
+ 367 words of extra memory for PDF output out of 10000 (max. 10000000)
 
