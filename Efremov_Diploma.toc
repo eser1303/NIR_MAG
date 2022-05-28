@@ -28,11 +28,8 @@
 \contentsline {subsection}{\numberline {4.1}Формальная постановка задачи}{33}{subsection.4.1}%
 \contentsline {subsection}{\numberline {4.2}Входные данные}{33}{subsection.4.2}%
 \contentsline {subsection}{\numberline {4.3}Описание моделей}{34}{subsection.4.3}%
-\contentsline {subsubsection}{\numberline {4.3.1}Этап предобработки данных}{34}{subsubsection.4.3.1}%
-\contentsline {subsubsection}{\numberline {4.3.2}Ядро модели}{36}{subsubsection.4.3.2}%
-\contentsline {section}{\numberline {5}Результаты работы алгоритма}{37}{section.5}%
-\contentsline {subsection}{\numberline {5.1}Пример полученных результатов - ключевые атрибуты}{37}{subsection.5.1}%
-\contentsline {subsection}{\numberline {5.2}Сравнение результатов с другими методами}{37}{subsection.5.2}%
-\contentsline {subsection}{\numberline {5.3}Сравнение результатов с оценкой предложенной метрики качества}{37}{subsection.5.3}%
-\contentsline {section}{\numberline {6}Экономический эффект от внедрения модели}{38}{section.6}%
-\contentsline {section}{\numberline {7}Заключение}{39}{section.7}%
+\contentsline {subsubsection}{\numberline {4.3.1}Этап предобработки данных}{35}{subsubsection.4.3.1}%
+\contentsline {subsubsection}{\numberline {4.3.2}Ядро модели}{37}{subsubsection.4.3.2}%
+\contentsline {subsection}{\numberline {4.4}Результаты работы алгоритмов}{37}{subsection.4.4}%
+\contentsline {section}{\numberline {5}Экономический эффект от внедрения модели}{40}{section.5}%
+\contentsline {section}{\numberline {6}Заключение}{41}{section.6}%
