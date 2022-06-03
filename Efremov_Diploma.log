@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  28 MAY 2022 16:56
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  3 JUN 2022 18:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1058,8 +1058,11 @@ File: porclas.jpg Graphic file (type jpg)
 <use porclas.jpg>
 Package pdftex.def Info: porclas.jpg  used on input line 818.
 (pdftex.def)             Requested size: 375.57782pt x 226.50806pt.
- [36 <./porclas.jpg>] [37] [38] [39] [40] [41]
-(Efremov_Diploma.bbl
+ [36 <./porclas.jpg>] [37]
+Underfull \vbox (badness 2261) has occurred while \output is active []
+
+ [38]
+[39] [40] [41] (Efremov_Diploma.bbl
 Underfull \hbox (badness 6001) in paragraph at lines 12--17
 []\T2A/cmr/m/it/12 Adam M., Rossant F. et al. \T2A/cmr/m/n/12 Eyelid localizati
 on for iris identification //
@@ -1121,9 +1124,9 @@ rem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
 Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb>
-Output written on Efremov_Diploma.pdf (43 pages, 1556494 bytes).
+Output written on Efremov_Diploma.pdf (43 pages, 1560415 bytes).
 PDF statistics:
- 1185 PDF objects out of 1200 (max. 8388607)
+ 1184 PDF objects out of 1200 (max. 8388607)
  159 named destinations out of 1000 (max. 500000)
  348 words of extra memory for PDF output out of 10000 (max. 10000000)
 

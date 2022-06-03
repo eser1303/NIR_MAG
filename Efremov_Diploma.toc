@@ -30,6 +30,6 @@
 \contentsline {subsection}{\numberline {4.3}Описание моделей}{34}{subsection.4.3}%
 \contentsline {subsubsection}{\numberline {4.3.1}Этап предобработки данных}{35}{subsubsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.2}Ядро модели}{37}{subsubsection.4.3.2}%
-\contentsline {subsection}{\numberline {4.4}Результаты работы алгоритмов}{37}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.4}Результаты работы алгоритмов}{38}{subsection.4.4}%
 \contentsline {section}{\numberline {5}Экономический эффект от внедрения модели}{40}{section.5}%
 \contentsline {section}{\numberline {6}Заключение}{41}{section.6}%
