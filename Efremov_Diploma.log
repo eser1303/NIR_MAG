@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  3 JUN 2022 18:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  5 JUN 2022 22:10
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -940,13 +940,13 @@ Underfull \hbox (badness 1874) in paragraph at lines 92--93
  []
 
 [6] [7]
-Underfull \hbox (badness 1472) in paragraph at lines 120--121
+Underfull \hbox (badness 1472) in paragraph at lines 121--122
 []\T2A/cmr/m/n/12 изучить опре-де-ле-ние по-ня-тий: ѕмо-ни-то-рингї, ѕэф-фек-ти
 в-ность мо-ни-то-рин-гаї,
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 138--139
+Underfull \hbox (badness 1478) in paragraph at lines 139--140
 []\T2A/cmr/m/n/12 мониторинг эф-фек-тив-но-сти ин-ве-сти-ци-он-но-го про-ек-та 
 (по-ка-за-те-лей, ко-то-рые
  []
@@ -955,38 +955,38 @@ Underfull \hbox (badness 1478) in paragraph at lines 138--139
 <develop_dynam.jpg, id=237, 464.33475pt x 266.79675pt>
 File: develop_dynam.jpg Graphic file (type jpg)
 <use develop_dynam.jpg>
-Package pdftex.def Info: develop_dynam.jpg  used on input line 204.
+Package pdftex.def Info: develop_dynam.jpg  used on input line 205.
 (pdftex.def)             Requested size: 328.6279pt x 188.82857pt.
  [12 <./develop_dynam.jpg>]
 <fin_source_clas.jpg, id=248, 753.41475pt x 389.65575pt>
 File: fin_source_clas.jpg Graphic file (type jpg)
 <use fin_source_clas.jpg>
-Package pdftex.def Info: fin_source_clas.jpg  used on input line 229.
+Package pdftex.def Info: fin_source_clas.jpg  used on input line 230.
 (pdftex.def)             Requested size: 328.6279pt x 169.96263pt.
  [13 <./fin_source_clas.jpg>]
 [14]
 <eskrou_dynam.jpg, id=260, 544.434pt x 325.215pt>
 File: eskrou_dynam.jpg Graphic file (type jpg)
 <use eskrou_dynam.jpg>
-Package pdftex.def Info: eskrou_dynam.jpg  used on input line 265.
+Package pdftex.def Info: eskrou_dynam.jpg  used on input line 266.
 (pdftex.def)             Requested size: 328.6279pt x 196.31154pt.
  [15 <./eskrou_dynam.jpg>] [16] [17] [18]
-Underfull \hbox (badness 2368) in paragraph at lines 345--347
+Underfull \hbox (badness 2368) in paragraph at lines 346--348
 \T2A/cmr/m/n/12 пред-став-ле-на в ви-де иерар-хи-че-ской сту-пен-ча-той
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--348
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
 []|\T2A/cmr/m/n/12 CHAID (Chi-squared
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 348--348
+Underfull \hbox (badness 10000) in paragraph at lines 349--349
 \T2A/cmr/m/n/12 Automatic Interaction
  []
 
 
-Underfull \hbox (badness 7649) in paragraph at lines 363--363
+Underfull \hbox (badness 7649) in paragraph at lines 364--364
 []|\T2A/cmr/m/n/12 Байесовкий клас-си-фи-ка-
  []
 
@@ -994,50 +994,50 @@ Underfull \hbox (badness 7649) in paragraph at lines 363--363
 <loss_func.jpg, id=318, 765.45975pt x 483.60675pt>
 File: loss_func.jpg Graphic file (type jpg)
 <use loss_func.jpg>
-Package pdftex.def Info: loss_func.jpg  used on input line 478.
+Package pdftex.def Info: loss_func.jpg  used on input line 479.
 (pdftex.def)             Requested size: 328.6279pt x 207.62216pt.
  [24 <./loss_func.jpg>]
 <tcross_val.jpg, id=328, 380.01974pt x 178.266pt>
 File: tcross_val.jpg Graphic file (type jpg)
 <use tcross_val.jpg>
-Package pdftex.def Info: tcross_val.jpg  used on input line 501.
+Package pdftex.def Info: tcross_val.jpg  used on input line 502.
 (pdftex.def)             Requested size: 328.6279pt x 154.16531pt.
  [25 <./tcross_val.jpg>]
 [26] [27] [28]
 <neyron.jpg, id=373, 424.58624pt x 271.76532pt>
 File: neyron.jpg Graphic file (type jpg)
 <use neyron.jpg>
-Package pdftex.def Info: neyron.jpg  used on input line 636.
+Package pdftex.def Info: neyron.jpg  used on input line 637.
 (pdftex.def)             Requested size: 234.73524pt x 150.24683pt.
  [29]
 <neyron_net.jpg, id=382, 499.8675pt x 268.00125pt>
 File: neyron_net.jpg Graphic file (type jpg)
 <use neyron_net.jpg>
-Package pdftex.def Info: neyron_net.jpg  used on input line 649.
+Package pdftex.def Info: neyron_net.jpg  used on input line 650.
 (pdftex.def)             Requested size: 375.57782pt x 201.37256pt.
 
 
-LaTeX Warning: Reference `' on page 30 undefined on input line 662.
+LaTeX Warning: Reference `' on page 30 undefined on input line 663.
 
 [30 <./neyron.jpg> <./neyron_net.jpg>]
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 693.
+(hyperref)                removing `math shift' on input line 694.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `math shift' on input line 693.
+(hyperref)                removing `math shift' on input line 694.
 
 [31] [32] [33]
 <data_source.jpg, id=411, 957.5775pt x 261.97874pt>
 File: data_source.jpg Graphic file (type jpg)
 <use data_source.jpg>
-Package pdftex.def Info: data_source.jpg  used on input line 735.
+Package pdftex.def Info: data_source.jpg  used on input line 736.
 (pdftex.def)             Requested size: 469.47049pt x 128.43866pt.
 <data_tract.jpg, id=413, 682.9515pt x 190.311pt>
 File: data_tract.jpg Graphic file (type jpg)
 <use data_tract.jpg>
-Package pdftex.def Info: data_tract.jpg  used on input line 757.
+Package pdftex.def Info: data_tract.jpg  used on input line 758.
 (pdftex.def)             Requested size: 469.47049pt x 130.82396pt.
 
 Underfull \vbox (badness 10000) has occurred while \output is active []
@@ -1046,7 +1046,7 @@ Underfull \vbox (badness 10000) has occurred while \output is active []
 <k-means.jpg, id=421, 629.9535pt x 224.63925pt>
 File: k-means.jpg Graphic file (type jpg)
 <use k-means.jpg>
-Package pdftex.def Info: k-means.jpg  used on input line 780.
+Package pdftex.def Info: k-means.jpg  used on input line 781.
 (pdftex.def)             Requested size: 375.57782pt x 133.93108pt.
 
 
@@ -1056,7 +1056,7 @@ LaTeX Warning: `h' float specifier changed to `ht'.
 <porclas.jpg, id=430, 356.532pt x 215.00325pt>
 File: porclas.jpg Graphic file (type jpg)
 <use porclas.jpg>
-Package pdftex.def Info: porclas.jpg  used on input line 818.
+Package pdftex.def Info: porclas.jpg  used on input line 819.
 (pdftex.def)             Requested size: 375.57782pt x 226.50806pt.
  [36 <./porclas.jpg>] [37]
 Underfull \vbox (badness 2261) has occurred while \output is active []
@@ -1088,10 +1088,10 @@ Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 312B61372BAE7DA3DC08A97CC6FC50E8;9834.
  ) 
 Here is how much of TeX's memory you used:
- 17176 strings out of 478582
- 261275 string characters out of 2844345
- 610075 words of memory out of 3000000
- 34826 multiletter control sequences out of 15000+600000
+ 17184 strings out of 478582
+ 261397 string characters out of 2844345
+ 610107 words of memory out of 3000000
+ 34832 multiletter control sequences out of 15000+600000
  493479 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  70i,16n,77p,3273b,521s stack positions out of 10000i,1000n,20000p,200000b,80000s
@@ -1124,9 +1124,9 @@ rem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
 Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb>
-Output written on Efremov_Diploma.pdf (43 pages, 1560415 bytes).
+Output written on Efremov_Diploma.pdf (43 pages, 1564517 bytes).
 PDF statistics:
- 1184 PDF objects out of 1200 (max. 8388607)
- 159 named destinations out of 1000 (max. 500000)
+ 1193 PDF objects out of 1200 (max. 8388607)
+ 161 named destinations out of 1000 (max. 500000)
  348 words of extra memory for PDF output out of 10000 (max. 10000000)
 

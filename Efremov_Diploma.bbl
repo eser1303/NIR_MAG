@@ -135,6 +135,15 @@ Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
 \newblock 2010. "---
 \newblock Pp.~533--535.
 
+\bibitem{Antonov2014}
+\selectlanguageifdefined{english}
+\BibEmph{{Антонов В.Г.}, {Масленников В.В.},
+  {Скамай Л.Г., Вачегин А.М.}} Управление
+  рисками приоритетных инвестиционных
+  проектов концепция и методология~//
+  \BibEmph{Палеотип}. "---
+\newblock 2014.
+
 \bibitem{Medic}
 \selectlanguageifdefined{english}
 \BibEmph{{Вельховер Е.С.}, {Шульпина Н.Б.}, {Алиева
@@ -156,6 +165,13 @@ Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
   алгоритмам и программам на языке бейсик
   для персональных ЭВМ~// \BibEmph{М.: Наука}. "---
 \newblock 1987.
+
+\bibitem{Nikon}
+\selectlanguageifdefined{english}
+\BibEmph{{Никонова И.А.}} Проектный анализ и
+  проектное финансирование~// \BibEmph{Альпина
+  паблишер}. "---
+\newblock 2012.
 
 \bibitem{Smirn}
 \selectlanguageifdefined{english}
