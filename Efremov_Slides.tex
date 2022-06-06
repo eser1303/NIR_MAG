@@ -62,13 +62,13 @@
 %-----------------------------------------------------------------------------------------------------
 \begin{frame}{Постановка задачи}
 \begin{block}{Проблема}
-	Для определения потенциально возможных финансовых рисков необходим мониторинг проектов в сфере жилищного строительства.
+	Для определения потенциально возможных финансовых рисков необходим мониторинг проектов в сфере жилищного строительства
 \end{block}
 \begin{block}{Оценка даты фактической готовности}
-	Предлагается строить прогноз ключевого макропараметра объекта жилищного строительства~--- даты фактической готовности.
+	Предлагается строить прогноз ключевого макропараметра объекта жилищного строительства~--- даты фактической готовности
 \end{block}
 \begin{block}{Предложение}
-	Проанализировать признаковое описание объектов строительства и построить эффективную регрессионную модель, способную предсказывать дату фактической готовности.
+	Проанализировать признаковое описание объектов строительства и построить эффективную регрессионную модель, способную предсказывать дату фактической готовности
 \end{block}
 
 
@@ -77,16 +77,19 @@
 \begin{frame}{Литература}
 	\textbf{Работы по проектному финансированию}
 	\begin{itemize}
-		\item \textit{Kipf T. N., Welling M.} Semi-Supervised Classification with Graph Convolutional Networks // Proceedings of the 5th International Conference on Learning Representations, 2017
-		\item \textit{Wu Z., Pan S., Chen F., Long G., Zhang C., Yu P. S.} A Comprehensive Survey on Graph Neural Networks // IEEE Transactions on Neural Networks and Learning Systems, 2020
+		\item \textit{Никонова И.А.} Проектный анализ и проектное финансирование // Альпина паблишер, 2012
+		\item \textit{Ассоциация банков России} Финансирование жилищного 
+		строительства в рамках достижения 
+		национальных целей развития 
+		до 2030 года // Аналитические материалы, 2020
 	\end{itemize}
 	
 	\textbf{Работы по алгоритмам машинного обучения }
 	\begin{itemize}
-		\item \textit{Derevyanko G., Grudinin S., Bengio Y., Lamoureux G.} Deep convolutional networks for quality assessment of protein folds // Bioinformatics (Oxford, England), 2018
-		\item \textit{Pag{\`e}s G., Charmettant B., Grudinin S.} Protein model quality assessment using 3D oriented convolutional neural networks // Bioinformatics (Oxford, England), 2019
+		\item \textit{Chen C., Zhang Q., Ma Q., Yu B.} LightGBM-PPI: Predicting protein-protein interactions through LightGBM with multi-information fusion // Chemometrics and Intelligent Laboratory Systems, 2019
+		\item \textit{Friedman, Jerome H.} Greedy Function Approximation: A Gradient Boosting Machine // Annals of Statistics, 2001
 		
-		\item \textit{Baldassarre F., Men{\'e}ndez Hurtado D., Elofsson A., Azizpour H. } GraphQA: Protein model quality assessment using graph convolutional network // Submitted to Bioinformatics, 2020
+		\item \textit{Gulin A., Karpovich P.} Greedy function optimization in learning rank // YandexLectures , 2009
 	\end{itemize}
 \end{frame}
 %-----------------------------------------------------------------------------------------------------
@@ -194,29 +197,26 @@
 
 \begin{frame}{Метрики оценки качества}
 	
-	\begin{block}{MSE}
-		$$
+	\begin{block}{Критерии качества регрессионной модели}
+		\begin{itemize}
+		\setlength\itemsep{1,5em}
+		\item$
 			MSE(a, X) = \frac{1}{l}\sum\limits_{i=1}^{l}{(a(x_i)-y_i)}^2
-		$$
-	\end{block}
+		$
 	
-	\begin{block}{$R^2$}
-		$$
-		R^2(a, X) = 1 - \frac{\sum_{i=1}^{l}{(a(x_i)-y_i)}^2}{\sum_{i=1}^{l}{(y_i-\bar{y})}^2}
-		$$	
-	\end{block}
+	\item$
+		R^2(a, X) = 1 - \frac{\sum\limits_{i=1}^{l}{(a(x_i)-y_i)}^2}{\sum\limits_{i=1}^{l}{(y_i-\bar{y})}^2}
+		$
 
-	\begin{block}{MAE}
-		$$
+	\item$
 		MAE(a,X) = \frac{1}{l}\sum\limits_{i=1}^{l}|a(x_i)-y_i|
-		$$
-	\end{block}
+		$
 
-	\begin{block}{MAPE}
-		$$
+	\item$
 		MAPE(a, X) = 100\% \times \frac{1}{l}\sum\limits_{i=1}^{l}\frac{|a(x_i)-y_i|}{|y_i|}
-		$$
-	\end{block}
+		$
+\end{itemize}
+\end{block}
 \end{frame}
 
 
@@ -254,7 +254,7 @@
 	\begin{figure}[h]
 	\centering
 	\includegraphics[width=0.8\linewidth]{indication.jpg}
-	\caption{Градиентная визуализация}
+	\caption{Цветовая индикация}
 	\label{fig:{indication}}
 \end{figure}
 
@@ -265,16 +265,16 @@
 	\begin{block}{Необходимость мониторинга}
 		\begin{itemize}
 			\item Риски только по одному объекту могут составлять более 25 млрд. руб.
-			\item Ручной мониторинг отделом из 10 специалистов обойдется порядка 30 млн. руб ежегодно.
-			\item Отношение составляет менее промилле от потенциальной суммы риска только по одному проекту.
+			\item Ручной мониторинг отделом из 10 специалистов обойдется порядка 30 млн. руб ежегодно
+			\item Отношение составляет менее промилле от потенциальной суммы риска только по одному проекту
 		\end{itemize}
 	\end{block}
 
 \begin{block}{Плюсы автоматизации}
 	\begin{itemize}
 		\item Возможность сэкономить около 80\% трудового ресурса аналитиков
-		\item Стоимость внедрения решения не превышает 5 млн. руб. при существовании возможности масштабирования.
-		\item Стоимость обслуживания около 1 млн. ежегодно с учетом всего жизненного цикла.
+		\item Стоимость внедрения решения не превышает 5 млн. руб. при существовании возможности масштабирования
+		\item Стоимость обслуживания около 1 млн. ежегодно с учетом всего жизненного цикла
 	\end{itemize}
 	
 \end{block}
@@ -285,7 +285,7 @@
 \begin{frame}{Выносится на защиту}
 \begin{block}{Полученные результаты}
 	\begin{itemize}
-		\item Разработаны  методы прогнозирования даты фактической готовности объектов жилищного строительства
+		\item Реализованы методы прогнозирования даты фактической готовности объектов жилищного строительства
 		\item Предложены методы предварительной предобработки данных для повышения качества прогноза модели
 		\item Результаты работы алгоритмов показывают состоятельность подхода и репрезентативность результата
 	\end{itemize}

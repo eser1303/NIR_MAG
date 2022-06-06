@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  6 JUN 2022 19:39
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  6 JUN 2022 22:50
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1865,7 +1865,7 @@ Package caption Info: End \AtBeginDocument code.
 <data_source.jpg, id=97, 957.5775pt x 261.97874pt>
 File: data_source.jpg Graphic file (type jpg)
 <use data_source.jpg>
-Package pdftex.def Info: data_source.jpg  used on input line 103.
+Package pdftex.def Info: data_source.jpg  used on input line 106.
 (pdftex.def)             Requested size: 307.28987pt x 84.07076pt.
  [4
 
@@ -1873,32 +1873,32 @@ Package pdftex.def Info: data_source.jpg  used on input line 103.
 <data_tract.jpg, id=106, 663.6795pt x 177.66376pt>
 File: data_tract.jpg Graphic file (type jpg)
 <use data_tract.jpg>
-Package pdftex.def Info: data_tract.jpg  used on input line 116.
+Package pdftex.def Info: data_tract.jpg  used on input line 119.
 (pdftex.def)             Requested size: 307.28987pt x 82.26036pt.
 
 [5
 
  <./data_tract.jpg>]<<ot1.cmap>><<oml.cmap>><<oms.cmap>><<omx.cmap>>
-LaTeX Font Info:    Trying to load font information for U+msa on input line 137
+LaTeX Font Info:    Trying to load font information for U+msa on input line 140
 .
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 137
+LaTeX Font Info:    Trying to load font information for U+msb on input line 140
 .
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-LaTeX Font Info:    Trying to load font information for U+rsfs on input line 13
-7.
+LaTeX Font Info:    Trying to load font information for U+rsfs on input line 14
+0.
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/jknappen\ursfs.fd
 File: ursfs.fd 1998/03/24 rsfs font definition file (jk)
 )
 LaTeX Font Info:    Trying to load font information for OT1+mathkerncmss on inp
-ut line 137.
+ut line 140.
 
 (C:\Users\efrem\AppData\Local\Programs\MiKTeX\tex/latex/sansmathaccent\ot1mathk
 erncmss.fd
@@ -1908,7 +1908,7 @@ thkerncmss.
 <k-means.jpg, id=130, 629.9535pt x 224.63925pt>
 File: k-means.jpg Graphic file (type jpg)
 <use k-means.jpg>
-Package pdftex.def Info: k-means.jpg  used on input line 137.
+Package pdftex.def Info: k-means.jpg  used on input line 140.
 (pdftex.def)             Requested size: 245.83282pt x 87.66379pt.
  [6
 
@@ -1916,10 +1916,10 @@ Package pdftex.def Info: k-means.jpg  used on input line 137.
 <porclas.jpg, id=158, 356.532pt x 215.00325pt>
 File: porclas.jpg Graphic file (type jpg)
 <use porclas.jpg>
-Package pdftex.def Info: porclas.jpg  used on input line 154.
+Package pdftex.def Info: porclas.jpg  used on input line 157.
 (pdftex.def)             Requested size: 245.83282pt x 148.25069pt.
 
-Overfull \vbox (6.28157pt too high) detected at line 154
+Overfull \vbox (6.28157pt too high) detected at line 157
  []
 
 [7
@@ -1928,16 +1928,12 @@ Overfull \vbox (6.28157pt too high) detected at line 154
 
 ] [9
 
-]
-Overfull \vbox (9.90436pt too high) detected at line 220
- []
-
-[10
+] [10
 
 ] [11
 
 ]
-<indication.jpg, id=271, 372.79276pt x 223.43475pt>
+<indication.jpg, id=244, 372.79276pt x 223.43475pt>
 File: indication.jpg Graphic file (type jpg)
 <use indication.jpg>
 Package pdftex.def Info: indication.jpg  used on input line 261.
@@ -1958,18 +1954,19 @@ Package pdftex.def Info: indication.jpg  used on input line 261.
 \tf@snm=\write8
 \openout8 = `Efremov_Slides.snm'.
 
- (Efremov_Slides.aux)
+
+(Efremov_Slides.aux)
 Package rerunfilecheck Info: File `Efremov_Slides.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 26572 strings out of 478582
- 523415 string characters out of 2844345
- 769310 words of memory out of 3000000
- 44103 multiletter control sequences out of 15000+600000
+ 26566 strings out of 478582
+ 523162 string characters out of 2844345
+ 765304 words of memory out of 3000000
+ 44097 multiletter control sequences out of 15000+600000
  485217 words of font info for 70 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,15n,122p,437b,693s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 128i,15n,122p,437b,695s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lass09
 00.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 si1000.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1979,20 +1976,21 @@ pi600\lass0500.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t
 lh-t2a/dpi600\lass1000.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour
 /lh/lh-t2a/dpi600\lass1440.pk><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fon
 ts/type1/public/amsfonts/cm/cmex10.pfb><C:/Users/efrem/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/efrem/AppData/Local/P
-rograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/efrem/AppData
-/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><C:/Users/efre
-m/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/Us
-ers/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssi10.
-pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/c
-m/cmssi8.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/a
-msfonts/cm/cmssi9.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/amsfonts/cm/cmsy10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/efrem/AppData/Local/Programs/M
-iKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
-Output written on Efremov_Slides.pdf (14 pages, 627210 bytes).
+iKTeX/fonts/type1/public/amsfonts/cmextra/cmex7.pfb><C:/Users/efrem/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/efrem/Ap
+pData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Users/
+efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmss10.pfb><
+C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cms
+s8.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfont
+s/cm/cmssi10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/amsfonts/cm/cmssi8.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/amsfonts/cm/cmssi9.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/efrem/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy7.pfb><C:/Users/efrem/AppData/Loc
+al/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy9.pfb>
+Output written on Efremov_Slides.pdf (14 pages, 628682 bytes).
 PDF statistics:
- 742 PDF objects out of 1000 (max. 8388607)
+ 713 PDF objects out of 1000 (max. 8388607)
  36 named destinations out of 1000 (max. 500000)
- 712 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 616 words of extra memory for PDF output out of 10000 (max. 10000000)
 
