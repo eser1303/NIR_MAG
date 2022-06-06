@@ -1,0 +1,302 @@
+\documentclass[10pt,unicode]{beamer}
+\usepackage{cmap}
+\usepackage[T2A]{fontenc}
+\usepackage[cp1251]{inputenc}
+\usepackage[english, russian]{babel}
+\usepackage{amsmath,mathrsfs,amsfonts,amssymb, mathtools}
+\usepackage{graphicx, epsfig}
+\usepackage{subfig}
+\usepackage[noend]{algorithmic}
+
+\usepackage{multirow}
+\captionsetup{labelformat=empty}
+\usepackage{wrapfig}
+
+\newcommand{\hchi}{\hat{\boldsymbol{\chi}}}
+\newcommand{\B}{\mathcal{B}}
+\newcommand{\hx}{\hat{x}}
+\newcommand{\hy}{\hat{y}}
+
+\def\algorithmicrequire{\textbf{\textcolor[rgb]{0.00,0.00,1.00}{Вход:}}}
+\def\algorithmicensure{\textbf{\textcolor[rgb]{0.00,0.00,1.00}{Выход:}}}
+
+\usetheme{Warsaw}%{Singapore}%{Warsaw}%{Warsaw}%{Darmstadt}
+\usecolortheme{sidebartab}
+\setbeamertemplate{footline}[author]
+\expandafter\def\expandafter\insertshorttitle\expandafter{%
+	\insertshorttitle\hfill%
+	\insertframenumber\,/\,\inserttotalframenumber}
+
+\definecolor{beamer@blendedblue}{RGB}{15,120,80}
+\graphicspath{{../pics/}}
+% отключить клавиши навигации
+\setbeamertemplate{navigation symbols}{}
+
+\newcommand{\specialcell}[2][c]{%
+	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
+
+%----------------------------------------------------------------------------------------------------------
+\title[Жилищное строительство]{Развитие инструментов предиктивной аналитики в целях повышения эффективности мониторинга проектов в сфере жилищного строительства}
+\author{Ефремов Сергей}
+\date{06 июля 2022г.}
+\institute[МФТИ]{Московский физико-технический институт \\
+	Физтех-школа прикладной математики и информатики\\
+	Кафедра технологий цифровой трансформации
+	\vspace{0.3cm} \\
+	Научный руководитель
+	канд. экон. наук, доц.  А\.,А.\,Помулев
+}
+
+\date{
+	Москва,\\
+	2022\,г.
+}
+
+%----------------------------------------------------------------------------------------------------------
+\begin{document}
+%----------------------------------------------------------------------------------------------------------
+\begin{frame}
+%\thispagestyle{empty}
+\titlepage
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Постановка задачи}
+\begin{block}{Проблема}
+	Для определения потенциально возможных финансовых рисков необходим мониторинг проектов в сфере жилищного строительства.
+\end{block}
+\begin{block}{Оценка даты фактической готовности}
+	Предлагается строить прогноз ключевого макропараметра объекта жилищного строительства~--- даты фактической готовности.
+\end{block}
+\begin{block}{Предложение}
+	Проанализировать признаковое описание объектов строительства и построить эффективную регрессионную модель, способную предсказывать дату фактической готовности.
+\end{block}
+
+
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Литература}
+	\textbf{Работы по проектному финансированию}
+	\begin{itemize}
+		\item \textit{Kipf T. N., Welling M.} Semi-Supervised Classification with Graph Convolutional Networks // Proceedings of the 5th International Conference on Learning Representations, 2017
+		\item \textit{Wu Z., Pan S., Chen F., Long G., Zhang C., Yu P. S.} A Comprehensive Survey on Graph Neural Networks // IEEE Transactions on Neural Networks and Learning Systems, 2020
+	\end{itemize}
+	
+	\textbf{Работы по алгоритмам машинного обучения }
+	\begin{itemize}
+		\item \textit{Derevyanko G., Grudinin S., Bengio Y., Lamoureux G.} Deep convolutional networks for quality assessment of protein folds // Bioinformatics (Oxford, England), 2018
+		\item \textit{Pag{\`e}s G., Charmettant B., Grudinin S.} Protein model quality assessment using 3D oriented convolutional neural networks // Bioinformatics (Oxford, England), 2019
+		
+		\item \textit{Baldassarre F., Men{\'e}ndez Hurtado D., Elofsson A., Azizpour H. } GraphQA: Protein model quality assessment using graph convolutional network // Submitted to Bioinformatics, 2020
+	\end{itemize}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Входные данные}
+	
+	\begin{figure}[h]
+		\centering
+		%\includegraphics[width=1.02\textwidth]{experiment.pdf}
+		%\includegraphics[width=0.99\textwidth]{}
+		\includegraphics[width=\linewidth]{data_source.jpg}
+		\caption{Схема источников данных}
+		\label{fig:{data_source}}
+	\end{figure}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Архитектура модели}
+	
+	\begin{figure}[h]
+		\centering
+		%\includegraphics[width=1.02\textwidth]{experiment.pdf}
+		%\includegraphics[width=0.99\textwidth]{}
+			\includegraphics[width=\linewidth]{data_tract.jpg}
+		\caption{Схематичное изображение исследованных моделей
+		}
+		\label{fig:{data_tract}}
+	\end{figure}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Предобработка}
+	\begin{block}{Метод $k$~-средних}
+		$$
+		a(x_i) = \underset{1\leq k\leq K}{\operatorname{argmin}}
+		\rho(x_i, c_k)~-~\text{критерий принадлежности к кластеру;}
+		$$
+		$$
+		c_k = \frac{1}{\sum\limits_{i=1}^{l}[a(x_i)= k]} \sum\limits_{i=1}^{l}[a(x_i)= k]x_i~-~\text{центр кластера}
+		$$
+	\end{block}
+	\begin{figure}[h]
+		\centering
+		%\includegraphics[width=1.02\textwidth]{experiment.pdf}
+		%\includegraphics[width=0.99\textwidth]{}
+			
+		\includegraphics[width=0.8\linewidth]{k-means.jpg}
+		\caption{Результат работы k-means для разного количества кластеров}
+		\label{fig:{k-means}}
+	\end{figure}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+\begin{frame}{Предобработка}
+	\begin{block}{Пороговая классификация}
+		$$
+		a_i\leq \frac{p_j\cdot|R|}{\sum\limits_{k\in R} p_k}\leq a_{i+1};~~~~~~~~ a_1 \approx 0,8; a_2 \approx 1,2; a_3 \approx 1,5.
+		$$
+	\end{block}
+	\begin{figure}[h]
+		\centering
+		%\includegraphics[width=1.02\textwidth]{experiment.pdf}
+		%\includegraphics[width=0.99\textwidth]{}
+		
+		\includegraphics[width=0.8\linewidth]{porclas.jpg}
+		\caption{Распределение значений признака $f$}
+		\label{fig:{porclas}}
+	\end{figure}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Предобработка}
+\begin{table}[h]
+	\centering
+	%\begin{tabular}{l|l|l|l}
+	\begin{tabular}{cccc}
+		
+		\hline  Модель& \specialcell{Внутреннее\\расстояние} &  \specialcell{Внешнее\\расстояние} & \specialcell{Индекс\\Данна} \\
+		\hline $k-means^{++}$ 5  & 18,7 & 28,9 & 1,15\\
+		$k-means^{++}$ 4 & 15,9 & 28,1 & 1,31\\
+		$k-means^{++}$ 3 & 19,4 &  23,9 & 1,05\\
+		\hline
+		\textbf{Пороговая классификация}&  \textbf{20,2}& \textbf{27,4}& \textbf{1,23}   \\
+		\hline 
+	\end{tabular}
+	
+	\caption{Сравнение метрик качества $k-means^{++}$ для разного количества кластеров}
+	\label{Tab:2}
+\end{table}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Ядро модели}
+	\begin{block}{Линейная регрессия}
+		$$
+		\frac{1}{l}\sum\limits_{i=1}^{l}(\langle\omega, x_i\rangle - y_i)^2 \rightarrow \min_{\omega}.
+		$$
+	\end{block}
+	\begin{block}{Градиентный бустинг}
+	$$
+	a_N(x) = \sum\limits_{n=0}^{N}\gamma_nb_n(x)-\text{взвешенная сумма базовых алгоритмов}
+	$$
+	$$
+	\sum\limits_{i=1}^{l}L(y_i, a_{N-1}(x_i)+\gamma_Nb_N(x_i)) \rightarrow \min_{b_N, \gamma_N}.
+	$$
+\end{block}	
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Метрики оценки качества}
+	
+	\begin{block}{MSE}
+		$$
+			MSE(a, X) = \frac{1}{l}\sum\limits_{i=1}^{l}{(a(x_i)-y_i)}^2
+		$$
+	\end{block}
+	
+	\begin{block}{$R^2$}
+		$$
+		R^2(a, X) = 1 - \frac{\sum_{i=1}^{l}{(a(x_i)-y_i)}^2}{\sum_{i=1}^{l}{(y_i-\bar{y})}^2}
+		$$	
+	\end{block}
+
+	\begin{block}{MAE}
+		$$
+		MAE(a,X) = \frac{1}{l}\sum\limits_{i=1}^{l}|a(x_i)-y_i|
+		$$
+	\end{block}
+
+	\begin{block}{MAPE}
+		$$
+		MAPE(a, X) = 100\% \times \frac{1}{l}\sum\limits_{i=1}^{l}\frac{|a(x_i)-y_i|}{|y_i|}
+		$$
+	\end{block}
+\end{frame}
+
+
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Сравнение результатов}
+	\begin{table}[h]
+		\centering
+		%\begin{tabular}{l|l|l|l}
+		\begin{tabular}{lcccc}
+			
+			\hline  Модель& MSE &  $R^2$ & MAE & MAPE \\
+			\hline LinearRegression  & 61564 & 0,516 & 307 & 20\%\\
+			$k-means^{++}$ \& LinearRegression  & 45671 & 0,634 & 260& 17,7\%\\
+			f-clas \& LinearRegression & 43282 & 0,652 & 248 & 17,3\%\\
+			f-clas \& LightGBM & 24467 &  0,808 & 224 & 13,6\%\\
+			\hline
+			\textbf{LightGBM}&  \textbf{22009}& \textbf{0,827}& \textbf{196}&
+			\textbf{12\%}   \\
+			\hline 
+		\end{tabular}
+		
+		\caption{Показатели качества построенных моделей}
+		\label{Tab:3}
+	\end{table}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Индикация проблем}	
+	\begin{block}{Визуализация для пользователя}
+		Результат работы модели на первое июня показал, что доля объектов в красной зоне
+		около 1,5\%, а объектов в желтой зоне порядка 20\%
+	\end{block}
+
+	\begin{figure}[h]
+	\centering
+	\includegraphics[width=0.8\linewidth]{indication.jpg}
+	\caption{Градиент с шагом в год}
+	\label{fig:{indication}}
+\end{figure}
+
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+\begin{frame}{Экономический эффект}	
+	\begin{block}{Необходимость мониторинга}
+		\begin{itemize}
+			\item Плюс
+			\item Еще плюс
+			\item Снова плюс
+		\end{itemize}
+	\end{block}
+
+\begin{block}{Плюсы автоматизации}
+	\begin{itemize}
+		\item Плюс
+		\item Еще плюс
+		\item Снова плюс
+	\end{itemize}
+	
+\end{block}
+\end{frame}
+%-----------------------------------------------------------------------------------------------------
+
+
+\begin{frame}{Выносится на защиту}
+\begin{block}{Полученные результаты}
+	\begin{itemize}
+		\item Разработано несколько методов прогнозирования даты фактической готовности объектов жилищного строительства
+		\item Предложены методы предварительной предобработки данных для повышения качества прогноза модели
+		\item Результаты работы алгоритмов показывают состоятельность подхода и репрезентативность результата
+	\end{itemize}
+\end{block}
+\begin{block}{Дальнейшие исследования}
+	\begin{itemize}
+		\item Возможно обобщение модели на другие важные для проектного мониторинга признаки
+		\item Переход к прогнозированию динамически изменяющихся показателей
+		\item Обогащение признакового пространства показателями импортозависимости    
+	\end{itemize}
+\end{block}
+\end{frame}
+%----------------------------------------------------------------------------------------------------------
+\end{document} 
