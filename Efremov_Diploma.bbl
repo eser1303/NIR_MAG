@@ -6,10 +6,11 @@
 \ifx\undefined\BibUrl\def\BibUrl#1{\url{#1}}\else\fi
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
+\providecommand\noopsort[1]{}
 
 \bibitem{Antonov2014}
-\selectlanguageifdefined{english}
-\BibEmph{{Антонов В.Г.}, {Масленников В.В.},
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Антонов В.Г.}, {Масленников В.В.},
   {Скамай Л.Г., Вачегин А.М.}} Управление
   рисками приоритетных инвестиционных
   проектов концепция и методология~//
@@ -17,8 +18,8 @@
 \newblock 2014.
 
 \bibitem{Asso}
-\selectlanguageifdefined{english}
-\BibEmph{{Ассоциация банков России}}.
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Ассоциация банков России}}.
   Финансирование жилищного строительства в
   рамках достижения национальных целей
   развития до 2030 года~// \BibEmph{Аналитические
@@ -26,73 +27,74 @@
 \newblock 2020.
 
 \bibitem{domrf}
-\selectlanguageifdefined{english}
-Единая информационная система жилищного
-  строительства // https://наш.дом.рф/.
+\selectlanguageifdefined{russian}
+\noopsort{1}Единая информационная система
+  жилищного строительства // https://наш.дом.рф/.
 
 \bibitem{erz}
-\selectlanguageifdefined{english}
-Единый ресурс застройщиков // https://erzrf.ru/.
+\selectlanguageifdefined{russian}
+\noopsort{1}Единый ресурс застройщиков //
+  https://erzrf.ru/.
 
 \bibitem{stroyStat}
-\selectlanguageifdefined{english}
-\BibEmph{{Кенчадзе Д.Д.}, {Власенко Н.А., Денисов
-  Л.В., Дехтяр Е.Е.,Ершкова Л.Г., Золотова
-  И.Б.,Кириченко И.А., Колесникова В.Г.,
-  Корниенко О.В., Куранов Г.О., Фадеева В.В.}}
-  Строительство в России. 2020~//
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Кенчадзе Д.Д.}, {Власенко Н.А.,
+  Денисов Л.В., Дехтяр Е.Е.,Ершкова Л.Г.,
+  Золотова И.Б.,Кириченко И.А., Колесникова
+  В.Г., Корниенко О.В., Куранов Г.О., Фадеева
+  В.В.}} Строительство в России. 2020~//
   \BibEmph{Федеральная служба государственной
   статистики (Росстат)}. "---
 \newblock 2020.
 
 \bibitem{Minstr}
-\selectlanguageifdefined{english}
-Мониторинг объема жилищного строительства
-  | Минстрой России //
+\selectlanguageifdefined{russian}
+\noopsort{1}Мониторинг объема жилищного
+  строительства | Минстрой России //
   https://minstroyrf.gov.ru/trades/zhilishnaya-politika/8/.
 
 \bibitem{Nikon}
 \selectlanguageifdefined{russian}
-\BibEmph{{Никонова И.А.}} Проектный анализ и
-  проектное финансирование~// \BibEmph{Альпина
+\BibEmph{\noopsort{1}{Никонова И.А.}} Проектный анализ
+  и проектное финансирование~// \BibEmph{Альпина
   паблишер}. "---
 \newblock 2012.
 
 \bibitem{Fatrell}
-\selectlanguageifdefined{english}
-\BibEmph{{Фатрелл Р.}, {Шафер Д.}, {Шафер Л.}}
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Фатрелл Р.}, {Шафер Д.}, {Шафер Л.}}
   Управление программными проектами.
   Достижение оптимального качества при
   минимуме затрат~// \BibEmph{М.: Вильямс}. "---
 \newblock 2003. "---
-\newblock Pp.~23--36.
+\newblock {\cyr\CYRS.}~23--36.
 
 \bibitem{Filli}
-\selectlanguageifdefined{english}
-\BibEmph{{Филлипс Дж.}} Управление проектами в
-  области информационных технологий~//
-  \BibEmph{ЛОРИ}. "---
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Филлипс Дж.}} Управление
+  проектами в области информационных
+  технологий~// \BibEmph{ЛОРИ}. "---
 \newblock 2006.
 
 \bibitem{Hiefez}
-\selectlanguageifdefined{english}
-\BibEmph{{Хейфец Е.Е.}} Анализ источников и
-  механизмов финансирования девелоперских
-  проектов жилищного строительства~//
-  \BibEmph{Российский экономический
-  интернет-журнал}. "---
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Хейфец Е.Е.}} Анализ источников
+  и механизмов финансирования
+  девелоперских проектов жилищного
+  строительства~// \BibEmph{Российский
+  экономический интернет-журнал}. "---
 \newblock 2020. "---
-\newblock no.~4. "---
-\newblock P.~56.
+\newblock {\cyr\textnumero}~4. "---
+\newblock {\cyr\CYRS.}~56.
 
 \bibitem{cb}
-\selectlanguageifdefined{english}
-Центральный банк Российской Федерации |
-  Банк России // https://cbr.ru/.
+\selectlanguageifdefined{russian}
+\noopsort{1}Центральный банк Российской
+  Федерации | Банк России // https://cbr.ru/.
 
 \bibitem{Chusa}
-\selectlanguageifdefined{english}
-\BibEmph{{Чусавитина Г.Н.}, {Макашова В.Н.}}
+\selectlanguageifdefined{russian}
+\BibEmph{\noopsort{1}{Чусавитина Г.Н.}, {Макашова В.Н.}}
   Управление проектами по разработке и
   внедрению информационных систем~//
   \BibEmph{Общество с ограниченной
@@ -101,97 +103,106 @@
 
 \bibitem{Chen2}
 \selectlanguageifdefined{english}
-\BibEmph{Chen~C., Zhang~Q. et~al.} {LightGBM-PPI}: Predicting protein-protein
-  interactions through {LightGBM} with multi-information fusion~//
-  \BibEmph{Chemometrics and Intelligent Laboratory Systems}. "---
+\BibEmph{\noopsort{2}{Chen C.}, {Zhang Q.} et~al.} {LightGBM-PPI}: Predicting
+  protein-protein interactions through {LightGBM} with multi-information
+  fusion~// \BibEmph{Chemometrics and Intelligent Laboratory Systems}. "---
 \newblock 2019. "---
 \newblock Vol. 191. "---
 \newblock Pp.~54--64.
 
 \bibitem{Chen}
 \selectlanguageifdefined{english}
-\BibEmph{Chen~T., Guestrin~C.} Xgboost: A scalable tree boosting system~//
-  \BibEmph{Proceedings of the 22nd acm sigkdd international conference on
-  knowledge discovery and data mining}. "---
+\BibEmph{\noopsort{2}{Chen T.}, {Guestrin C.}} Xgboost: A scalable tree
+  boosting system~// \BibEmph{Proceedings of the 22nd acm sigkdd international
+  conference on knowledge discovery and data mining}. "---
 \newblock 2016.
 
 \bibitem{Friedman1}
 \selectlanguageifdefined{english}
-\BibEmph{Friedman~J.} Greedy function approximation: a gradient boosting
-  machine~// \BibEmph{Annals of statistics}. "---
+\BibEmph{\noopsort{2}{Friedman J.}} Greedy function approximation: a gradient
+  boosting machine~// \BibEmph{Annals of statistics}. "---
 \newblock 2001. "---
 \newblock Pp.~1189--1232.
 
 \bibitem{Friedman2}
 \selectlanguageifdefined{english}
-\BibEmph{Friedman~J.} Stochastic gradient boosting~// \BibEmph{Computational
-  statistics \& data analysis}. "---
+\BibEmph{\noopsort{2}{Friedman J.}} Stochastic gradient boosting~//
+  \BibEmph{Computational statistics \& data analysis}. "---
 \newblock 2002. "---
 \newblock Vol.~38, no.~4. "---
 \newblock Pp.~367--378.
 
 \bibitem{Karp}
 \selectlanguageifdefined{english}
-\BibEmph{Gulin~A., Karpovich~P.} Greedy function optimization in learning to
-  rank~// \BibEmph{Lection on the RuSSIR 2009 conference}. "---
+\BibEmph{\noopsort{2}{Gulin A.}, {Karpovich P.}} Greedy function optimization
+  in learning to rank~// \BibEmph{Lection on the RuSSIR 2009 conference}. "---
 \newblock 2009.
 
 \bibitem{Hastie}
 \selectlanguageifdefined{english}
-\BibEmph{Hastie~T., Tibshirani~R., Friedman~J.} The elements of statistical
-  learning: data mining, inference, and prediction~// \BibEmph{MIT Press}. "---
+\BibEmph{\noopsort{2}{Hastie T.}, {Tibshirani R.}, {Friedman J.}} The elements
+  of statistical learning: data mining, inference, and prediction~//
+  \BibEmph{MIT Press}. "---
 \newblock 2009. "---
 \newblock Vol.~2.
 
 \bibitem{Jaderberg}
 \selectlanguageifdefined{english}
-\BibEmph{Jaderberg~M.} Decoupled neural interfaces using synthetic gradients~//
-  \BibEmph{International conference on machine learning}. "---
+\BibEmph{\noopsort{2}{Jaderberg M.}} Decoupled neural interfaces using
+  synthetic gradients~// \BibEmph{International conference on machine
+  learning}. "---
 \newblock 2017. "---
 \newblock Pp.~1627--1635.
 
 \bibitem{JBarron}
 \selectlanguageifdefined{english}
-\BibEmph{{Jonathan T. Barron}}. A general and adaptive robust loss function~//
-  \BibEmph{Google Research}. "---
+\BibEmph{\noopsort{2}{Jonathan T. Barron}}. A general and adaptive robust loss
+  function~// \BibEmph{Google Research}. "---
 \newblock 2019.
+
+\bibitem{Kerzner}
+\selectlanguageifdefined{english}
+\BibEmph{\noopsort{2}{Kerzner H.}} Project management: a systems approach to
+  planning, scheduling, and controlling~// \BibEmph{John Wiley \& Sons}. "---
+\newblock 2017.
 
 \bibitem{liu}
 \selectlanguageifdefined{english}
-\BibEmph{Liu~H.} Housing investment, stock market participation and household
-  portfolio choice: Evidence from china's urban areas~// \BibEmph{arXiv
-  preprint arXiv:2001.01641}. "---
+\BibEmph{\noopsort{2}{Liu H.}} Housing investment, stock market participation
+  and household portfolio choice: Evidence from china's urban areas~//
+  \BibEmph{arXiv preprint arXiv:2001.01641}. "---
 \newblock 2020.
 
 \bibitem{Mohri}
 \selectlanguageifdefined{english}
-\BibEmph{Mohri~M., Rostamizadeh~A., Talwalkar~A.} Foundations of machine
-  learning~// \BibEmph{MIT Press}. "---
+\BibEmph{\noopsort{2}{Mohri M.}, {Rostamizadeh A.}, {Talwalkar A.}} Foundations
+  of machine learning~// \BibEmph{MIT Press}. "---
 \newblock 2012.
 
 \bibitem{YNesterov}
 \selectlanguageifdefined{english}
-\BibEmph{Nesterov~Y.} Introductory lectures on convex optimization~//
-  \BibEmph{SpringerVerlag US 2004}. "---
+\BibEmph{\noopsort{2}{Nesterov Y.}} Introductory lectures on convex
+  optimization~// \BibEmph{SpringerVerlag US 2004}. "---
 \newblock 2004.
 
 \bibitem{RobbinsMonro}
 \selectlanguageifdefined{english}
-\BibEmph{Robbins~H., Monro~S.} A stochastic approximation method~//
-  \BibEmph{Annals of Mathematical Statistics}. "---
+\BibEmph{\noopsort{2}{Robbins H.}, {Monro S.}} A stochastic approximation
+  method~// \BibEmph{Annals of Mathematical Statistics}. "---
 \newblock 1951.
 
 \bibitem{Schmidt}
 \selectlanguageifdefined{english}
-\BibEmph{Schmidt~M., Roux~N.~L., Bach~F.} Minimizing finite sums with the
-  stochastic average gradient~// \BibEmph{Mathematical Programming}. "---
+\BibEmph{\noopsort{2}{Schmidt M.}, {Le Roux N.}, {Bach F.}} Minimizing finite
+  sums with the stochastic average gradient~// \BibEmph{Mathematical
+  Programming}. "---
 \newblock 2013.
 
 \bibitem{yus}
 \selectlanguageifdefined{english}
-\BibEmph{Yusupova~A., Pavlidis~N., Pavlidis~E.} Adaptive dynamic model
-  averaging with an application to house price forecasting~// \BibEmph{arXiv
-  preprint arXiv:1912.04661}. "---
+\BibEmph{\noopsort{2}{Yusupova A.}, {Pavlidis N.}, {Pavlidis E.}} Adaptive
+  dynamic model averaging with an application to house price forecasting~//
+  \BibEmph{arXiv preprint arXiv:1912.04661}. "---
 \newblock 2019.
 
 \end{thebibliography}

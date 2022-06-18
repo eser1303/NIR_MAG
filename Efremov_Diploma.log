@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  18 JUN 2022 13:32
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  18 JUN 2022 22:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -985,26 +985,26 @@ Underfull \hbox (badness 7649) in paragraph at lines 347--347
  []
 
 [19] [20] [21] [22] [23]
-<loss_func.jpg, id=353, 765.45975pt x 483.60675pt>
+<loss_func.jpg, id=354, 765.45975pt x 483.60675pt>
 File: loss_func.jpg Graphic file (type jpg)
 <use loss_func.jpg>
 Package pdftex.def Info: loss_func.jpg  used on input line 462.
 (pdftex.def)             Requested size: 328.6279pt x 207.62216pt.
  [24 <./loss_func.jpg>]
-<tcross_val.jpg, id=363, 380.01974pt x 178.266pt>
+<tcross_val.jpg, id=364, 380.01974pt x 178.266pt>
 File: tcross_val.jpg Graphic file (type jpg)
 <use tcross_val.jpg>
 Package pdftex.def Info: tcross_val.jpg  used on input line 485.
 (pdftex.def)             Requested size: 328.6279pt x 154.16531pt.
  [25 <./tcross_val.jpg>]
 [26] [27] [28]
-<neyron.jpg, id=412, 424.58624pt x 271.76532pt>
+<neyron.jpg, id=413, 424.58624pt x 271.76532pt>
 File: neyron.jpg Graphic file (type jpg)
 <use neyron.jpg>
 Package pdftex.def Info: neyron.jpg  used on input line 620.
 (pdftex.def)             Requested size: 234.73524pt x 150.24683pt.
  [29]
-<neyron_net.jpg, id=422, 499.8675pt x 268.00125pt>
+<neyron_net.jpg, id=423, 499.8675pt x 268.00125pt>
 File: neyron_net.jpg Graphic file (type jpg)
 <use neyron_net.jpg>
 Package pdftex.def Info: neyron_net.jpg  used on input line 633.
@@ -1023,18 +1023,21 @@ Package hyperref Warning: Token not allowed in a PDF string (Unicode):
 (hyperref)                removing `math shift' on input line 677.
 
 [31] [32] [33]
-<data_source.jpg, id=455, 957.5775pt x 261.97874pt>
+<data_source.jpg, id=456, 957.5775pt x 261.97874pt>
 File: data_source.jpg Graphic file (type jpg)
 <use data_source.jpg>
 Package pdftex.def Info: data_source.jpg  used on input line 719.
 (pdftex.def)             Requested size: 469.47049pt x 128.43866pt.
-<data_tract.jpg, id=457, 663.6795pt x 177.66376pt>
+<data_tract.jpg, id=458, 663.6795pt x 177.66376pt>
 File: data_tract.jpg Graphic file (type jpg)
 <use data_tract.jpg>
 Package pdftex.def Info: data_tract.jpg  used on input line 741.
 (pdftex.def)             Requested size: 469.47049pt x 125.67857pt.
+
+Underfull \vbox (badness 8000) has occurred while \output is active []
+
  [34 <./data_source.jpg> <./data_tract.jpg>]
-<k-means.jpg, id=465, 629.9535pt x 224.63925pt>
+<k-means.jpg, id=466, 629.9535pt x 224.63925pt>
 File: k-means.jpg Graphic file (type jpg)
 <use k-means.jpg>
 Package pdftex.def Info: k-means.jpg  used on input line 764.
@@ -1044,13 +1047,13 @@ Package pdftex.def Info: k-means.jpg  used on input line 764.
 LaTeX Warning: `h' float specifier changed to `ht'.
 
 [35 <./k-means.jpg>]
-<porclas.jpg, id=474, 356.532pt x 215.00325pt>
+<porclas.jpg, id=475, 356.532pt x 215.00325pt>
 File: porclas.jpg Graphic file (type jpg)
 <use porclas.jpg>
 Package pdftex.def Info: porclas.jpg  used on input line 802.
 (pdftex.def)             Requested size: 375.57782pt x 226.50806pt.
  [36 <./porclas.jpg>] [37]
-<indication.jpg, id=493, 372.79276pt x 223.43475pt>
+<indication.jpg, id=494, 372.79276pt x 223.43475pt>
 File: indication.jpg Graphic file (type jpg)
 <use indication.jpg>
 Package pdftex.def Info: indication.jpg  used on input line 859.
@@ -1064,7 +1067,7 @@ Underfull \vbox (badness 1308) has occurred while \output is active []
 
  [38]
 [39 <./indication.jpg>]
-<house.jpg, id=506, 3700.82625pt x 1445.4pt>
+<house.jpg, id=507, 3700.82625pt x 1445.4pt>
 File: house.jpg Graphic file (type jpg)
 <use house.jpg>
 Package pdftex.def Info: house.jpg  used on input line 880.
@@ -1074,23 +1077,18 @@ Underfull \vbox (badness 2158) has occurred while \output is active []
 
  [41]
 [42] [43] (Efremov_Diploma.bbl
-Underfull \hbox (badness 10000) in paragraph at lines 30--32
+Underfull \hbox (badness 10000) in paragraph at lines 31--33
 []\T2A/cmr/m/n/12 Единая ин-фор-ма-ци-он-ная си-сте-ма жи-лищ-но-го стро-и-тель
 -ства //
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 50--53
+Underfull \hbox (badness 10000) in paragraph at lines 52--55
 []\T2A/cmr/m/n/12 Мониторинг объ-е-ма жи-лищ-но-го стро-и-тель-ства | Мин-строй
  Рос-сии //
  []
 
-[44]) [45] (Efremov_Diploma.aux
-
-Package natbib Warning: Citation(s) may have changed.
-(natbib)                Rerun to get citations correct.
-
-)
+[44] [45]) [46] (Efremov_Diploma.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1098,13 +1096,13 @@ Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 312B61372BAE7DA3DC08A97CC6FC50E8;9834.
  ) 
 Here is how much of TeX's memory you used:
- 17213 strings out of 478582
- 261880 string characters out of 2844345
- 610288 words of memory out of 3000000
- 34853 multiletter control sequences out of 15000+600000
+ 17219 strings out of 478582
+ 261952 string characters out of 2844345
+ 610304 words of memory out of 3000000
+ 34857 multiletter control sequences out of 15000+600000
  493479 words of font info for 88 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,16n,77p,3273b,515s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,16n,77p,3273b,572s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 sx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi60
@@ -1134,9 +1132,9 @@ rem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/
 Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/m
 sam10.pfb><C:/Users/efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/symbols/msbm10.pfb>
-Output written on Efremov_Diploma.pdf (45 pages, 5312246 bytes).
+Output written on Efremov_Diploma.pdf (46 pages, 5313968 bytes).
 PDF statistics:
- 1268 PDF objects out of 1440 (max. 8388607)
- 167 named destinations out of 1000 (max. 500000)
+ 1276 PDF objects out of 1440 (max. 8388607)
+ 169 named destinations out of 1000 (max. 500000)
  358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
