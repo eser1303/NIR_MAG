@@ -7,134 +7,6 @@
 \ifx\undefined\BibAnnote\long\def\BibAnnote#1{}\else\fi
 \ifx\undefined\BibEmph\def\BibEmph#1{\emph{#1}}\else\fi
 
-\bibitem{Adam_2}
-\selectlanguageifdefined{english}
-\BibEmph{Adam~M., Rossant~F. et~al.} Eyelid localization for iris
-  identification~// \BibEmph{Radioengineering}. "---
-\newblock 2008. "---
-\newblock Vol.~17, no.~4. "---
-\newblock Pp.~82--85.
-
-\bibitem{Adam_1}
-\selectlanguageifdefined{english}
-\BibEmph{Adam~M., Rossant~F. et~al.} Reliable eyelid localization for iris
-  identification~// \BibEmph{Advanced Concepts for Intelligent Vision Systems
-  Conference Proceedings}. "---
-\newblock 2008. "---
-\newblock Pp.~1062--1070.
-
-\bibitem{Hough_Parab}
-\selectlanguageifdefined{english}
-\BibEmph{Ballard~D.} Generalizing the hough transform to detect arbitrary
-  shapes~// \BibEmph{Pattern Recognition}. "---
-\newblock 1981. "---
-\newblock Vol.~13, no.~2. "---
-\newblock Pp.~111--122.
-
-\bibitem{Canny}
-\selectlanguageifdefined{english}
-\BibEmph{Canny~J.} A computational approach to edge detection~// \BibEmph{IEEE
-  Trans. Pattern Anal. Mach. Intell.} "---
-\newblock 1986. "---
-\newblock Vol.~8, no.~6. "---
-\newblock Pp.~679--698.
-
-\bibitem{Daugman2}
-\selectlanguageifdefined{english}
-\BibEmph{Daugman~J.} High confidence visual recognition of persons by a test of
-  statistical independence~// \BibEmph{IEEE Transactions on Pattern Analysis
-  and Machine Intelligence}. "---
-\newblock 1993. "---
-\newblock Vol.~15, no.~11. "---
-\newblock Pp.~1148--1161.
-
-\bibitem{Daugman4}
-\selectlanguageifdefined{english}
-\BibEmph{Daugman~J.} The importance of being random: statistical principles of
-  iris recognition~// \BibEmph{Pattern Recognit.} "---
-\newblock 2003. "---
-\newblock Vol.~36. "---
-\newblock Pp.~279--291.
-
-\bibitem{Daugman}
-\selectlanguageifdefined{english}
-\BibEmph{Daugman~J.} How iris recognition works~// \BibEmph{IEEE Trans.
-  Circuits Syst. Video Techn.} "---
-\newblock 2004. "---
-\newblock Vol.~14. "---
-\newblock Pp.~21--30.
-
-\bibitem{Radon}
-\selectlanguageifdefined{english}
-\BibEmph{Deans~S.} The radon transform and some of its applications~//
-  \BibEmph{New York: John Wiley and Sons}. "---
-\newblock 1983.
-
-\bibitem{Conf3}
-\selectlanguageifdefined{english}
-Future challenges based on the multiple biometric grand challenge // {NIST}
-  information access division: Multiple biometric grand challenge. "---
-\newblock 2010.
-
-\bibitem{KP}
-\selectlanguageifdefined{english}
-\BibEmph{Kang~B., Park~K.} A robust eyelash detection based on iris focus
-  assessment~// \BibEmph{Pattern Recognition Letters}. "---
-\newblock 2007. "---
-\newblock Vol.~28, no.~13. "---
-\newblock Pp.~1630--1639.
-
-\bibitem{Masek}
-\selectlanguageifdefined{english}
-\BibEmph{Masek~L.} Recognition of human iris patterns for biometric
-  identification~// \BibEmph{Measurement}. "---
-\newblock 2003. "---
-\newblock Vol.~32, no.~8. "---
-\newblock Pp.~1502--1516.
-
-\bibitem{Min}
-\selectlanguageifdefined{english}
-\BibEmph{Min~T., Park~R.} Comparison of eyelid and eyelash detection algorithms
-  for performance improvement of iris recognition~// \BibEmph{Conference
-  (International) on Image Processings Proceedings}. "---
-\newblock 2008. "---
-\newblock Pp.~257--260.
-
-\bibitem{Terr}
-\selectlanguageifdefined{english}
-Multiple biometric evaluation // http://www.nist.gov/itl/iad/ig/mbe.cfm. "---
-\newblock 2009.
-
-\bibitem{Tech}
-\selectlanguageifdefined{english}
-Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
-  "---
-\newblock 2007.
-
-\bibitem{Wildes}
-\selectlanguageifdefined{english}
-\BibEmph{Wildes~R.} Iris recognition: an emerging biometric technology~//
-  \BibEmph{Proceedings of the {IEEE}}. "---
-\newblock 1997. "---
-\newblock Vol.~85, no.~9. "---
-\newblock Pp.~1348--1363.
-
-\bibitem{KKX}
-\selectlanguageifdefined{english}
-\BibEmph{Xiangde~Z., Qi~W. et~al.} Noise detection of iris image based on
-  texture analysis~// \BibEmph{Chinese Control and Decision Conference
-  Proceedings}. "---
-\newblock 2009. "---
-\newblock Pp.~2366--2370.
-
-\bibitem{Yang}
-\selectlanguageifdefined{english}
-\BibEmph{Yang~L., Wu~T. et~al.} Eyelid localization using asymmetric canny
-  operator~// \BibEmph{Conference (International) on Computer Design and
-  Applications Proceedings}. "---
-\newblock 2010. "---
-\newblock Pp.~533--535.
-
 \bibitem{Antonov2014}
 \selectlanguageifdefined{english}
 \BibEmph{{Антонов В.Г.}, {Масленников В.В.},
@@ -144,54 +16,182 @@ Multiple biometric grand challenge // http://www.nist.gov/itl/iad/ig/mbgc.cfm.
   \BibEmph{Палеотип}. "---
 \newblock 2014.
 
-\bibitem{Medic}
+\bibitem{Asso}
 \selectlanguageifdefined{english}
-\BibEmph{{Вельховер Е.С.}, {Шульпина Н.Б.}, {Алиева
-  З.А. и др.}} Иридодиагностика~// \BibEmph{М.:
-  Медицина}. "---
-\newblock 1988. "---
-\newblock P.~240.
+\BibEmph{{Ассоциация банков России}}.
+  Финансирование жилищного строительства в
+  рамках достижения национальных целей
+  развития до 2030 года~// \BibEmph{Аналитические
+  материалы}. "---
+\newblock 2020.
 
-\bibitem{GV}
+\bibitem{domrf}
 \selectlanguageifdefined{english}
-\BibEmph{{Гонсалес Р.}, {Вудс Р.}} Цифровая
-  обработка изображений~// \BibEmph{Техносфера}.
-  "---
-\newblock 2012.
+Единая информационная система жилищного
+  строительства // https://наш.дом.рф/.
 
-\bibitem{Inter}
+\bibitem{erz}
 \selectlanguageifdefined{english}
-\BibEmph{{Дьяконов В.П.}} Справочник по
-  алгоритмам и программам на языке бейсик
-  для персональных ЭВМ~// \BibEmph{М.: Наука}. "---
-\newblock 1987.
+Единый ресурс застройщиков // https://erzrf.ru/.
+
+\bibitem{stroyStat}
+\selectlanguageifdefined{english}
+\BibEmph{{Кенчадзе Д.Д.}, {Власенко Н.А., Денисов
+  Л.В., Дехтяр Е.Е.,Ершкова Л.Г., Золотова
+  И.Б.,Кириченко И.А., Колесникова В.Г.,
+  Корниенко О.В., Куранов Г.О., Фадеева В.В.}}
+  Строительство в России. 2020~//
+  \BibEmph{Федеральная служба государственной
+  статистики (Росстат)}. "---
+\newblock 2020.
+
+\bibitem{Minstr}
+\selectlanguageifdefined{english}
+Мониторинг объема жилищного строительства
+  | Минстрой России //
+  https://minstroyrf.gov.ru/trades/zhilishnaya-politika/8/.
 
 \bibitem{Nikon}
-\selectlanguageifdefined{english}
+\selectlanguageifdefined{russian}
 \BibEmph{{Никонова И.А.}} Проектный анализ и
   проектное финансирование~// \BibEmph{Альпина
   паблишер}. "---
 \newblock 2012.
 
-\bibitem{Smirn}
+\bibitem{Fatrell}
 \selectlanguageifdefined{english}
-\BibEmph{{Смирнов Д.А.}, {Матвеев И.А.}}
-  Определение границ век на изображении
-  глаза методом активных контуров~//
-  \BibEmph{Труды ИСА РАН, Динамика неоднородных
-  систем}. "---
-\newblock 2006. "---
-\newblock Vol.~25. "---
-\newblock Pp.~200--207.
+\BibEmph{{Фатрелл Р.}, {Шафер Д.}, {Шафер Л.}}
+  Управление программными проектами.
+  Достижение оптимального качества при
+  минимуме затрат~// \BibEmph{М.: Вильямс}. "---
+\newblock 2003. "---
+\newblock Pp.~23--36.
 
-\bibitem{Matv}
+\bibitem{Filli}
 \selectlanguageifdefined{english}
-\BibEmph{{Соломатин И.А.}, {Матвеев И.А.}, {Новик
-  В.П.}} Определение видимой области радужки
-  классификатором текстур с опорным
-  множеством~// \BibEmph{Автоматика и
-  телемеханика}. "---
-\newblock 2018. "---
-\newblock Pp.~127--143.
+\BibEmph{{Филлипс Дж.}} Управление проектами в
+  области информационных технологий~//
+  \BibEmph{ЛОРИ}. "---
+\newblock 2006.
+
+\bibitem{Hiefez}
+\selectlanguageifdefined{english}
+\BibEmph{{Хейфец Е.Е.}} Анализ источников и
+  механизмов финансирования девелоперских
+  проектов жилищного строительства~//
+  \BibEmph{Российский экономический
+  интернет-журнал}. "---
+\newblock 2020. "---
+\newblock no.~4. "---
+\newblock P.~56.
+
+\bibitem{cb}
+\selectlanguageifdefined{english}
+Центральный банк Российской Федерации |
+  Банк России // https://cbr.ru/.
+
+\bibitem{Chusa}
+\selectlanguageifdefined{english}
+\BibEmph{{Чусавитина Г.Н.}, {Макашова В.Н.}}
+  Управление проектами по разработке и
+  внедрению информационных систем~//
+  \BibEmph{Общество с ограниченной
+  ответственностью ФЛИНТА}. "---
+\newblock 2014.
+
+\bibitem{Chen2}
+\selectlanguageifdefined{english}
+\BibEmph{Chen~C., Zhang~Q. et~al.} {LightGBM-PPI}: Predicting protein-protein
+  interactions through {LightGBM} with multi-information fusion~//
+  \BibEmph{Chemometrics and Intelligent Laboratory Systems}. "---
+\newblock 2019. "---
+\newblock Vol. 191. "---
+\newblock Pp.~54--64.
+
+\bibitem{Chen}
+\selectlanguageifdefined{english}
+\BibEmph{Chen~T., Guestrin~C.} Xgboost: A scalable tree boosting system~//
+  \BibEmph{Proceedings of the 22nd acm sigkdd international conference on
+  knowledge discovery and data mining}. "---
+\newblock 2016.
+
+\bibitem{Friedman1}
+\selectlanguageifdefined{english}
+\BibEmph{Friedman~J.} Greedy function approximation: a gradient boosting
+  machine~// \BibEmph{Annals of statistics}. "---
+\newblock 2001. "---
+\newblock Pp.~1189--1232.
+
+\bibitem{Friedman2}
+\selectlanguageifdefined{english}
+\BibEmph{Friedman~J.} Stochastic gradient boosting~// \BibEmph{Computational
+  statistics \& data analysis}. "---
+\newblock 2002. "---
+\newblock Vol.~38, no.~4. "---
+\newblock Pp.~367--378.
+
+\bibitem{Karp}
+\selectlanguageifdefined{english}
+\BibEmph{Gulin~A., Karpovich~P.} Greedy function optimization in learning to
+  rank~// \BibEmph{Lection on the RuSSIR 2009 conference}. "---
+\newblock 2009.
+
+\bibitem{Hastie}
+\selectlanguageifdefined{english}
+\BibEmph{Hastie~T., Tibshirani~R., Friedman~J.} The elements of statistical
+  learning: data mining, inference, and prediction~// \BibEmph{MIT Press}. "---
+\newblock 2009. "---
+\newblock Vol.~2.
+
+\bibitem{Jaderberg}
+\selectlanguageifdefined{english}
+\BibEmph{Jaderberg~M.} Decoupled neural interfaces using synthetic gradients~//
+  \BibEmph{International conference on machine learning}. "---
+\newblock 2017. "---
+\newblock Pp.~1627--1635.
+
+\bibitem{JBarron}
+\selectlanguageifdefined{english}
+\BibEmph{{Jonathan T. Barron}}. A general and adaptive robust loss function~//
+  \BibEmph{Google Research}. "---
+\newblock 2019.
+
+\bibitem{liu}
+\selectlanguageifdefined{english}
+\BibEmph{Liu~H.} Housing investment, stock market participation and household
+  portfolio choice: Evidence from china's urban areas~// \BibEmph{arXiv
+  preprint arXiv:2001.01641}. "---
+\newblock 2020.
+
+\bibitem{Mohri}
+\selectlanguageifdefined{english}
+\BibEmph{Mohri~M., Rostamizadeh~A., Talwalkar~A.} Foundations of machine
+  learning~// \BibEmph{MIT Press}. "---
+\newblock 2012.
+
+\bibitem{YNesterov}
+\selectlanguageifdefined{english}
+\BibEmph{Nesterov~Y.} Introductory lectures on convex optimization~//
+  \BibEmph{SpringerVerlag US 2004}. "---
+\newblock 2004.
+
+\bibitem{RobbinsMonro}
+\selectlanguageifdefined{english}
+\BibEmph{Robbins~H., Monro~S.} A stochastic approximation method~//
+  \BibEmph{Annals of Mathematical Statistics}. "---
+\newblock 1951.
+
+\bibitem{Schmidt}
+\selectlanguageifdefined{english}
+\BibEmph{Schmidt~M., Roux~N.~L., Bach~F.} Minimizing finite sums with the
+  stochastic average gradient~// \BibEmph{Mathematical Programming}. "---
+\newblock 2013.
+
+\bibitem{yus}
+\selectlanguageifdefined{english}
+\BibEmph{Yusupova~A., Pavlidis~N., Pavlidis~E.} Adaptive dynamic model
+  averaging with an application to house price forecasting~// \BibEmph{arXiv
+  preprint arXiv:1912.04661}. "---
+\newblock 2019.
 
 \end{thebibliography}

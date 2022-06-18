@@ -6,44 +6,44 @@ The style file: gost71s.bst
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 Database file #1: mylib.bib
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
-You've used 24 entries,
+You've used 26 entries,
             3062 wiz_defined-function locations,
-            839 strings with 9318 characters,
-and the built_in function-call counts, 10349 in all, are:
-= -- 1224
-> -- 279
-< -- 59
-+ -- 106
-- -- 78
-* -- 660
-:= -- 1402
-add.period$ -- 95
-call.type$ -- 24
-change.case$ -- 110
+            821 strings with 10171 characters,
+and the built_in function-call counts, 8537 in all, are:
+= -- 951
+> -- 294
+< -- 49
++ -- 111
+- -- 82
+* -- 507
+:= -- 1267
+add.period$ -- 80
+call.type$ -- 26
+change.case$ -- 122
 chr.to.int$ -- 0
-cite$ -- 24
-duplicate$ -- 472
-empty$ -- 884
-format.name$ -- 78
-if$ -- 2478
+cite$ -- 26
+duplicate$ -- 393
+empty$ -- 791
+format.name$ -- 82
+if$ -- 2011
 int.to.chr$ -- 0
-int.to.str$ -- 24
+int.to.str$ -- 26
 missing$ -- 0
-newline$ -- 156
-num.names$ -- 105
-pop$ -- 165
+newline$ -- 146
+num.names$ -- 110
+pop$ -- 213
 preamble$ -- 1
-purify$ -- 86
-quote$ -- 50
-skip$ -- 392
+purify$ -- 96
+quote$ -- 32
+skip$ -- 254
 stack$ -- 0
-substring$ -- 654
-swap$ -- 212
-text.length$ -- 17
+substring$ -- 313
+swap$ -- 103
+text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
 warning$ -- 0
-while$ -- 88
-width$ -- 26
-write$ -- 400
+while$ -- 60
+width$ -- 28
+write$ -- 358

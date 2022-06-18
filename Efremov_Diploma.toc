@@ -10,7 +10,7 @@
 \contentsline {subsection}{\numberline {3.2}Текущее состояние финансирования в сфере жилищного строительства}{13}{subsection.3.2}%
 \contentsline {subsubsection}{\numberline {3.2.1}Основные источники финансирования }{13}{subsubsection.3.2.1}%
 \contentsline {subsubsection}{\numberline {3.2.2}Эскроу-счета}{14}{subsubsection.3.2.2}%
-\contentsline {subsection}{\numberline {3.3}Процесс мониторинга проектов и методы оценки коммерческим банком}{16}{subsection.3.3}%
+\contentsline {subsection}{\numberline {3.3}Процесс мониторинга проектов и методы оценки коммерческим банком}{17}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Типы моделей предиктивной аналитики и их применение в кредитном процессе}{18}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Обзор регрессионных моделей машинного обучения}{21}{subsection.3.5}%
 \contentsline {subsubsection}{\numberline {3.5.1}Линейная регрессия}{21}{subsubsection.3.5.1}%
@@ -31,5 +31,5 @@
 \contentsline {subsubsection}{\numberline {4.3.1}Этап предобработки данных}{35}{subsubsection.4.3.1}%
 \contentsline {subsubsection}{\numberline {4.3.2}Ядро модели}{37}{subsubsection.4.3.2}%
 \contentsline {subsection}{\numberline {4.4}Результаты работы алгоритмов}{38}{subsection.4.4}%
-\contentsline {section}{\numberline {5}Экономический эффект от внедрения модели}{40}{section.5}%
-\contentsline {section}{\numberline {6}Заключение}{41}{section.6}%
+\contentsline {section}{\numberline {5}Экономический эффект от внедрения модели}{41}{section.5}%
+\contentsline {section}{\numberline {6}Заключение}{43}{section.6}%
