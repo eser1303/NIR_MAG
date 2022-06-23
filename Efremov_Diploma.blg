@@ -8,7 +8,7 @@ Database file #1: mylib.bib
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
 You've used 27 entries,
             3062 wiz_defined-function locations,
-            827 strings with 10683 characters,
+            827 strings with 10835 characters,
 and the built_in function-call counts, 8827 in all, are:
 = -- 987
 > -- 302

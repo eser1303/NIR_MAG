@@ -7,19 +7,34 @@
 top=2cm,bottom=2cm]{geometry}
 \usepackage{longtable}
 \usepackage{comment}
-\usepackage{amsfonts}
+%\usepackage{amsfonts}
 \usepackage{hyperref}
 \usepackage[square, comma, sort&compress, numbers]{natbib}
 \newtheorem{definition}{Определение}
 \newtheorem{theorem}{Теорема}
 \newtheorem{utv}{Утверждение}
+\usepackage{caption}
+\captionsetup{labelsep=endash}
 
 \graphicspath{{../pics/}}
 
 \newcommand{\specialcell}[2][c]{%
 	\begin{tabular}[#1]{@{}c@{}}#2\end{tabular}}
 
+
+
 \begin{document}
+	
+\renewcommand{\partname}{Часть}
+\renewcommand{\abstractname}{Аннотация}
+\renewcommand{\contentsname}{Оглавление} % (ГОСТ Р 7.0.11-2011, 4)
+\renewcommand{\figurename}{Рисунок} % (ГОСТ Р 7.0.11-2011, 5.3.9)
+%\renewcommand{\captionlabeldelim}{.}
+\renewcommand{\tablename}{Таблица} % (ГОСТ Р 7.0.11-2011, 5.3.10)
+\renewcommand{\indexname}{Предметный указатель}
+\renewcommand{\listfigurename}{Список рисунков}
+\renewcommand{\listtablename}{Список таблиц}
+% \renewcommand{\refname}{\fullbibtitle}
 	
 \vskip 3mm
 
@@ -317,6 +332,10 @@ top=2cm,bottom=2cm]{geometry}
 
 \begin{center}
 	\begin{longtable}{p{5cm}|p{10cm}}
+		\caption{Наиболее распространенные алгоритмы машинного обучения в банковской сфере}
+		\label{Tab:1}\\
+		\hline Модель & Краткое описание    \\
+		\endfirsthead
 		\hline Модель & Краткое описание    \\
 		\endhead
 		\hline Линейная множественная регрессия & Связывает зависимую переменную с линейной функцией независимых переменных. Задача сводится к поиску коэффициентов, при которых точность ответа, полученного в результате подстановки входных значений обучающей выборки в итоговую линейную функцию будет максимальна.  
@@ -347,8 +366,6 @@ top=2cm,bottom=2cm]{geometry}
 		Байесовкий классификатор&Простой вероятностный классификатор, основанный на предположении о независимости признаков в исходном пространстве и последующем примении теоремы Байеса\\
 		\\
 		\hline 
-		\caption{Наиболее распространенные алгоритмы машинного обучения в банковской сфере}
-		\label{Tab:1}\\
 	\end{longtable}
 
 \end{center}
@@ -771,6 +788,7 @@ c_k = \frac{1}{\sum\limits_{i=1}^{l}[a(x_i)= k]} \sum\limits_{i=1}^{l}[a(x_i)= k
 
 \begin{table}[h]
 	\centering
+	\caption{Сравнение метрик качества $k-means^{++}$ для разного количества кластеров}
 	%\begin{tabular}{l|l|l|l}
 	\begin{tabular}{cccc}
 		
@@ -783,7 +801,6 @@ c_k = \frac{1}{\sum\limits_{i=1}^{l}[a(x_i)= k]} \sum\limits_{i=1}^{l}[a(x_i)= k
 		\hline 
 	\end{tabular}
 	
-	\caption{Сравнение метрик качества $k-means^{++}$ для разного количества кластеров}
 	\label{Tab:2}
 \end{table}
 
@@ -828,6 +845,7 @@ c_k = \frac{1}{\sum\limits_{i=1}^{l}[a(x_i)= k]} \sum\limits_{i=1}^{l}[a(x_i)= k
 Показатели качества предложенных выше моделей (рис.~\ref{fig:data_tract}) представлены в Таблице~\ref{Tab:3}. Нетрудно заметить, что модель градиентного бустинга в среднем показала себя значительно лучше линейной регрессии. Если смотреть на линейную регрессию, то метрики качества модели существенно лучше при применении предварительной группировки, при этом классификация по $f$---метрике
 на практике показала себя лучше чем $k-means$. Последнее скорее всего связано с выбором начального приближения. Для градиентного бустинга же напротив пороговая классификация положительного результата не принесла, и оказывается лучше использовать алгоритм в классической вариации. 
 \begin{table}[h]
+	\caption{Показатели качества построенных моделей}
 	\centering
 	%\begin{tabular}{l|l|l|l}
 	\begin{tabular}{lcccc}
@@ -843,7 +861,6 @@ c_k = \frac{1}{\sum\limits_{i=1}^{l}[a(x_i)= k]} \sum\limits_{i=1}^{l}[a(x_i)= k
 		\hline 
 	\end{tabular}
 	
-	\caption{Показатели качества построенных моделей}
 	\label{Tab:3}
 \end{table}
 

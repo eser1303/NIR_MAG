@@ -29,12 +29,13 @@
 \bibitem{domrf}
 \selectlanguageifdefined{russian}
 \noopsort{1}Единая информационная система
-  жилищного строительства // https://наш.дом.рф/.
+  жилищного строительства [Электронный
+  ресурс] // https://наш.дом.рф/.
 
 \bibitem{erz}
 \selectlanguageifdefined{russian}
-\noopsort{1}Единый ресурс застройщиков //
-  https://erzrf.ru/.
+\noopsort{1}Единый ресурс застройщиков
+  [Электронный ресурс] // https://erzrf.ru/.
 
 \bibitem{stroyStat}
 \selectlanguageifdefined{russian}
@@ -50,7 +51,8 @@
 \bibitem{Minstr}
 \selectlanguageifdefined{russian}
 \noopsort{1}Мониторинг объема жилищного
-  строительства | Минстрой России //
+  строительства | Минстрой России
+  [Электронный ресурс] //
   https://minstroyrf.gov.ru/trades/zhilishnaya-politika/8/.
 
 \bibitem{Nikon}
@@ -90,7 +92,8 @@
 \bibitem{cb}
 \selectlanguageifdefined{russian}
 \noopsort{1}Центральный банк Российской
-  Федерации | Банк России // https://cbr.ru/.
+  Федерации | Банк России [Электронный
+  ресурс] // https://cbr.ru/.
 
 \bibitem{Chusa}
 \selectlanguageifdefined{russian}

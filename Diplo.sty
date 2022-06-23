@@ -9,12 +9,18 @@
 \usepackage[noend]{algorithmic}
 \usepackage{graphicx}
 \usepackage{floatflt}
-\usepackage[footnotesize]{caption2}
+\usepackage{caption}
 \usepackage{color}
 \usepackage[all]{xy}
 \usepackage{cmap}
 \usepackage{amssymb}
+% \usepackage{xltxtra}
+%\usepackage[main=russian,english]{babel}
 
+%\setmainfont{Arial}
+%\setromanfont{Times New Roman}
+%\setsansfont{Arial}
+%\setmonofont{Courier New}
 % Параметры страницы
 \textheight=24cm
 \textwidth=16cm
@@ -137,10 +143,10 @@
 
 % Переопределение колонтитулов
 \def\MYheadfoot{
-\renewcommand{\@oddfoot}{}
-\renewcommand{\@oddhead}{\hfil-- \thepage\ --\hfil}
-\renewcommand{\@evenfoot}{}
-\renewcommand{\@evenhead}{\hfil-- \thepage\ --\hfil}
+\renewcommand{\@oddfoot}{\hfil-- \thepage\ --\hfil}
+\renewcommand{\@oddhead}{}
+\renewcommand{\@evenfoot}{\hfil-- \thepage\ --\hfil}
+\renewcommand{\@evenhead}{}
 } \MYheadfoot
 
 % Нумерацию формул переподчиним разделам
