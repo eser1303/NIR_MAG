@@ -5,45 +5,61 @@ Reallocating 'name_of_file' (item size: 1) to 8 items.
 The style file: gost71s.bst
 Reallocating 'name_of_file' (item size: 1) to 6 items.
 Database file #1: mylib.bib
+I was expecting a `,' or a `}'---line 41 of file mylib.bib
+ : 
+ : @article{Chusa,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Too many commas in name 2 of "\noopsort{1}{Антонов В.Г.} and {Масленников В.В. и др.}, journal = {Палеотип}, title={Управление рисками приоритетных инвестиционных проектов концепция и методология}, year = {2014}, language = {russian}" for entry Antonov2014
+while executing---line 1519 of file gost71s.bst
+Too many commas in name 2 of "\noopsort{1}{Антонов В.Г.} and {Масленников В.В. и др.}, journal = {Палеотип}, title={Управление рисками приоритетных инвестиционных проектов концепция и методология}, year = {2014}, language = {russian}" for entry Antonov2014
+while executing---line 1519 of file gost71s.bst
 Reallocating 'wiz_functions' (item size: 4) to 6000 items.
+Too many commas in name 2 of "\noopsort{1}{Антонов В.Г.} and {Масленников В.В. и др.}, journal = {Палеотип}, title={Управление рисками приоритетных инвестиционных проектов концепция и методология}, year = {2014}, language = {russian}" for entry Antonov2014
+while executing---line 1568 of file gost71s.bst
+Too many commas in name 2 of "\noopsort{1}{Антонов В.Г.} and {Масленников В.В. и др.}, journal = {Палеотип}, title={Управление рисками приоритетных инвестиционных проектов концепция и методология}, year = {2014}, language = {russian}" for entry Antonov2014
+while executing---line 1568 of file gost71s.bst
+Warning--empty title in Antonov2014
+Warning--empty journal in Antonov2014
 You've used 27 entries,
             3062 wiz_defined-function locations,
-            827 strings with 10835 characters,
-and the built_in function-call counts, 8827 in all, are:
-= -- 987
-> -- 302
+            825 strings with 10644 characters,
+and the built_in function-call counts, 8751 in all, are:
+= -- 971
+> -- 296
 < -- 51
-+ -- 114
-- -- 84
-* -- 522
-:= -- 1310
-add.period$ -- 83
++ -- 112
+- -- 82
+* -- 516
+:= -- 1298
+add.period$ -- 81
 call.type$ -- 27
-change.case$ -- 126
+change.case$ -- 124
 chr.to.int$ -- 0
-cite$ -- 27
+cite$ -- 29
 duplicate$ -- 407
-empty$ -- 820
-format.name$ -- 84
-if$ -- 2082
+empty$ -- 819
+format.name$ -- 82
+if$ -- 2061
 int.to.chr$ -- 0
 int.to.str$ -- 27
 missing$ -- 0
-newline$ -- 152
+newline$ -- 151
 num.names$ -- 115
-pop$ -- 223
+pop$ -- 227
 preamble$ -- 2
-purify$ -- 99
-quote$ -- 33
-skip$ -- 259
+purify$ -- 98
+quote$ -- 32
+skip$ -- 256
 stack$ -- 0
 substring$ -- 318
-swap$ -- 105
+swap$ -- 104
 text.length$ -- 5
 text.prefix$ -- 0
 top$ -- 0
 type$ -- 0
-warning$ -- 0
+warning$ -- 2
 while$ -- 62
 width$ -- 29
-write$ -- 372
+write$ -- 367
+(There were 5 error messages)

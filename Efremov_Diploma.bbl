@@ -9,13 +9,9 @@
 \providecommand\noopsort[1]{}
 
 \bibitem{Antonov2014}
-\selectlanguageifdefined{russian}
-\BibEmph{\noopsort{1}{Антонов В.Г.}, {Масленников В.В.},
-  {Скамай Л.Г., Вачегин А.М.}} Управление
-  рисками приоритетных инвестиционных
-  проектов концепция и методология~//
-  \BibEmph{Палеотип}. "---
-\newblock 2014.
+\selectlanguageifdefined{english}
+\BibEmph{\noopsort{1}{Антонов В.Г.}, {Масленников В.В. и
+  др.}~journal =~{Палеотип}~t. y. . . l. .~r.}
 
 \bibitem{Asso}
 \selectlanguageifdefined{russian}
@@ -39,11 +35,8 @@
 
 \bibitem{stroyStat}
 \selectlanguageifdefined{russian}
-\BibEmph{\noopsort{1}{Кенчадзе Д.Д.}, {Власенко Н.А.,
-  Денисов Л.В., Дехтяр Е.Е.,Ершкова Л.Г.,
-  Золотова И.Б.,Кириченко И.А., Колесникова
-  В.Г., Корниенко О.В., Куранов Г.О., Фадеева
-  В.В.}} Строительство в России. 2020~//
+\BibEmph{\noopsort{1}{Кенчадзе Д.Д.}, {Власенко Н.А. и
+  др.}} Строительство в России. 2020~//
   \BibEmph{Федеральная служба государственной
   статистики (Росстат)}. "---
 \newblock 2020.

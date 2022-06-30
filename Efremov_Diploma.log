@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  23 JUN 2022 12:09
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.3) (preloaded format=pdflatex 2022.4.4)  30 JUN 2022 11:30
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1061,6 +1061,9 @@ File: porclas.jpg Graphic file (type jpg)
 <use porclas.jpg>
 Package pdftex.def Info: porclas.jpg  used on input line 819.
 (pdftex.def)             Requested size: 375.57782pt x 226.50806pt.
+
+Underfull \vbox (badness 1721) has occurred while \output is active []
+
  [36 <./porclas.jpg>] [37]
 <indication.jpg, id=491, 372.79276pt x 223.43475pt>
 File: indication.jpg Graphic file (type jpg)
@@ -1081,7 +1084,7 @@ Package pdftex.def Info: house.jpg  used on input line 897.
 Underfull \vbox (badness 2158) has occurred while \output is active []
 
  [41]
-[42] [43] (Efremov_Diploma.bbl [44] [45]) [46] (Efremov_Diploma.aux)
+[42] [43] (Efremov_Diploma.bbl [44]) [45] (Efremov_Diploma.aux)
 
 LaTeX Warning: There were undefined references.
 
@@ -1089,13 +1092,13 @@ Package rerunfilecheck Info: File `Efremov_Diploma.out' has not changed.
 (rerunfilecheck)             Checksum: 312B61372BAE7DA3DC08A97CC6FC50E8;9834.
  ) 
 Here is how much of TeX's memory you used:
- 17532 strings out of 478582
- 268324 string characters out of 2844345
- 613763 words of memory out of 3000000
+ 17531 strings out of 478582
+ 268317 string characters out of 2844345
+ 613764 words of memory out of 3000000
  35190 multiletter control sequences out of 15000+600000
  490056 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 70i,16n,77p,3273b,572s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 70i,16n,77p,3273b,522s stack positions out of 10000i,1000n,20000p,200000b,80000s
  <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\lati12
 00.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/lh/lh-t2a/dpi600\la
 sx1200.pk> <C:\Users\efrem\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi
@@ -1122,9 +1125,9 @@ ograms/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/efrem/AppData/
 Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msam10.pfb><C:/Users/
 efrem/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.
 pfb>
-Output written on Efremov_Diploma.pdf (46 pages, 5277768 bytes).
+Output written on Efremov_Diploma.pdf (45 pages, 5276548 bytes).
 PDF statistics:
- 1205 PDF objects out of 1440 (max. 8388607)
- 169 named destinations out of 1000 (max. 500000)
+ 1198 PDF objects out of 1200 (max. 8388607)
+ 168 named destinations out of 1000 (max. 500000)
  358 words of extra memory for PDF output out of 10000 (max. 10000000)
 
