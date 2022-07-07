@@ -9,9 +9,12 @@
 \providecommand\noopsort[1]{}
 
 \bibitem{Antonov2014}
-\selectlanguageifdefined{english}
+\selectlanguageifdefined{russian}
 \BibEmph{\noopsort{1}{Антонов В.Г.}, {Масленников В.В. и
-  др.}~journal =~{Палеотип}~t. y. . . l. .~r.}
+  др.}} Управление рисками приоритетных
+  инвестиционных проектов концепция и
+  методология~// \BibEmph{Палеотип}. "---
+\newblock 2014.
 
 \bibitem{Asso}
 \selectlanguageifdefined{russian}
